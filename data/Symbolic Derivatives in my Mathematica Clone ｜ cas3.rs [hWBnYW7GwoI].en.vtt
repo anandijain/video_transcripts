@@ -1,0 +1,2616 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:02.760 --> 00:00:04.030 align:start position:0%
+ 
+uh<00:00:02.919><c> so</c><00:00:03.199><c> okay</c><00:00:03.280><c> so</c><00:00:03.399><c> we're</c><00:00:03.520><c> trying</c><00:00:03.679><c> to</c><00:00:03.800><c> do</c><00:00:03.919><c> a</c>
+
+00:00:04.030 --> 00:00:04.040 align:start position:0%
+uh so okay so we're trying to do a
+ 
+
+00:00:04.040 --> 00:00:05.389 align:start position:0%
+uh so okay so we're trying to do a
+whirlwind
+
+00:00:05.389 --> 00:00:05.399 align:start position:0%
+whirlwind
+ 
+
+00:00:05.399 --> 00:00:09.390 align:start position:0%
+whirlwind
+implementation<00:00:06.399><c> of</c><00:00:07.240><c> uh</c><00:00:08.240><c> symbolic</c><00:00:08.760><c> derivation</c>
+
+00:00:09.390 --> 00:00:09.400 align:start position:0%
+implementation of uh symbolic derivation
+ 
+
+00:00:09.400 --> 00:00:10.749 align:start position:0%
+implementation of uh symbolic derivation
+symbolic
+
+00:00:10.749 --> 00:00:10.759 align:start position:0%
+symbolic
+ 
+
+00:00:10.759 --> 00:00:12.950 align:start position:0%
+symbolic
+derivatives<00:00:11.759><c> um</c><00:00:12.040><c> because</c><00:00:12.280><c> I</c><00:00:12.360><c> feel</c><00:00:12.519><c> like</c><00:00:12.719><c> I</c><00:00:12.880><c> I</c>
+
+00:00:12.950 --> 00:00:12.960 align:start position:0%
+derivatives um because I feel like I I
+ 
+
+00:00:12.960 --> 00:00:14.589 align:start position:0%
+derivatives um because I feel like I I
+didn't<00:00:13.240><c> post</c><00:00:13.519><c> in</c><00:00:13.639><c> the</c><00:00:13.799><c> past</c><00:00:14.000><c> three</c><00:00:14.200><c> days</c><00:00:14.440><c> so</c>
+
+00:00:14.589 --> 00:00:14.599 align:start position:0%
+didn't post in the past three days so
+ 
+
+00:00:14.599 --> 00:00:17.590 align:start position:0%
+didn't post in the past three days so
+I'd<00:00:14.839><c> rather</c><00:00:15.440><c> stream</c><00:00:16.000><c> more</c><00:00:16.320><c> than</c><00:00:16.800><c> not</c><00:00:17.240><c> so</c><00:00:17.439><c> I</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+I'd rather stream more than not so I
+ 
+
+00:00:17.600 --> 00:00:21.109 align:start position:0%
+I'd rather stream more than not so I
+asked<00:00:18.080><c> the</c><00:00:18.240><c> GPT</c><00:00:19.240><c> you</c><00:00:19.400><c> know</c><00:00:20.000><c> how</c><00:00:20.199><c> how</c><00:00:20.439><c> might</c><00:00:20.760><c> D</c>
+
+00:00:21.109 --> 00:00:21.119 align:start position:0%
+asked the GPT you know how how might D
+ 
+
+00:00:21.119 --> 00:00:21.950 align:start position:0%
+asked the GPT you know how how might D
+be
+
+00:00:21.950 --> 00:00:21.960 align:start position:0%
+be
+ 
+
+00:00:21.960 --> 00:00:26.470 align:start position:0%
+be
+implemented<00:00:22.960><c> uh</c><00:00:23.840><c> in</c><00:00:24.800><c> Mathematica</c><00:00:25.800><c> and</c><00:00:26.039><c> I</c><00:00:26.160><c> got</c>
+
+00:00:26.470 --> 00:00:26.480 align:start position:0%
+implemented uh in Mathematica and I got
+ 
+
+00:00:26.480 --> 00:00:28.509 align:start position:0%
+implemented uh in Mathematica and I got
+this<00:00:26.920><c> and</c><00:00:27.039><c> so</c><00:00:27.400><c> we</c><00:00:27.519><c> are</c><00:00:27.720><c> going</c><00:00:27.920><c> to</c><00:00:28.119><c> just</c><00:00:28.320><c> go</c>
+
+00:00:28.509 --> 00:00:28.519 align:start position:0%
+this and so we are going to just go
+ 
+
+00:00:28.519 --> 00:00:45.270 align:start position:0%
+this and so we are going to just go
+through<00:00:29.000><c> and</c><00:00:29.560><c> uh</c>
+
+00:00:45.270 --> 00:00:45.280 align:start position:0%
+ 
+ 
+
+00:00:45.280 --> 00:00:52.150 align:start position:0%
+ 
+oh<00:00:45.480><c> and</c><00:00:45.600><c> we</c><00:00:46.000><c> need</c>
+
+00:00:52.150 --> 00:00:52.160 align:start position:0%
+ 
+ 
+
+00:00:52.160 --> 00:00:54.069 align:start position:0%
+ 
+uh
+
+00:00:54.069 --> 00:00:54.079 align:start position:0%
+uh
+ 
+
+00:00:54.079 --> 00:00:56.830 align:start position:0%
+uh
+pattern<00:00:55.239><c> x</c>
+
+00:00:56.830 --> 00:00:56.840 align:start position:0%
+pattern x
+ 
+
+00:00:56.840 --> 00:01:03.029 align:start position:0%
+pattern x
+blank<00:00:57.840><c> and</c><00:00:58.160><c> we</c><00:00:58.280><c> want</c><00:00:58.559><c> this</c><00:00:58.680><c> to</c><00:00:58.800><c> be</c><00:00:58.920><c> a</c><00:00:59.120><c> Sim</c><00:00:59.640><c> right</c>
+
+00:01:03.029 --> 00:01:03.039 align:start position:0%
+ 
+ 
+
+00:01:03.039 --> 00:01:05.310 align:start position:0%
+ 
+uh<00:01:03.559><c> we'll</c><00:01:03.800><c> make</c><00:01:04.080><c> the</c><00:01:04.239><c> second</c><00:01:04.479><c> ARG</c><00:01:04.799><c> always</c><00:01:05.119><c> a</c>
+
+00:01:05.310 --> 00:01:05.320 align:start position:0%
+uh we'll make the second ARG always a
+ 
+
+00:01:05.320 --> 00:01:10.350 align:start position:0%
+uh we'll make the second ARG always a
+Sim<00:01:06.119><c> okay</c><00:01:07.119><c> we</c><00:01:07.360><c> like</c><00:01:08.320><c> go</c><00:01:08.560><c> like</c><00:01:08.840><c> this</c><00:01:09.799><c> me</c><00:01:10.040><c> change</c>
+
+00:01:10.350 --> 00:01:10.360 align:start position:0%
+Sim okay we like go like this me change
+ 
+
+00:01:10.360 --> 00:01:12.630 align:start position:0%
+Sim okay we like go like this me change
+this<00:01:10.479><c> to</c><00:01:10.720><c> real</c><00:01:11.560><c> because</c><00:01:11.840><c> since</c><00:01:12.040><c> we</c><00:01:12.159><c> don't</c><00:01:12.400><c> have</c>
+
+00:01:12.630 --> 00:01:12.640 align:start position:0%
+this to real because since we don't have
+ 
+
+00:01:12.640 --> 00:01:15.109 align:start position:0%
+this to real because since we don't have
+numeric<00:01:13.159><c> Q</c><00:01:13.600><c> we</c><00:01:13.720><c> don't</c><00:01:14.000><c> have</c><00:01:14.600><c> what's</c><00:01:14.799><c> the</c><00:01:14.920><c> full</c>
+
+00:01:15.109 --> 00:01:15.119 align:start position:0%
+numeric Q we don't have what's the full
+ 
+
+00:01:15.119 --> 00:01:22.190 align:start position:0%
+numeric Q we don't have what's the full
+form<00:01:15.360><c> of</c><00:01:15.560><c> this</c><00:01:16.000><c> let's</c><00:01:16.960><c> uh</c><00:01:18.040><c> hold</c><00:01:19.040><c> at</c><00:01:19.840><c> this</c><00:01:20.840><c> full</c>
+
+00:01:22.190 --> 00:01:22.200 align:start position:0%
+form of this let's uh hold at this full
+ 
+
+00:01:22.200 --> 00:01:28.830 align:start position:0%
+form of this let's uh hold at this full
+for
+
+00:01:28.830 --> 00:01:28.840 align:start position:0%
+ 
+ 
+
+00:01:28.840 --> 00:01:36.190 align:start position:0%
+ 
+bro
+
+00:01:36.190 --> 00:01:36.200 align:start position:0%
+ 
+ 
+
+00:01:36.200 --> 00:01:37.620 align:start position:0%
+ 
+pattern
+
+00:01:37.620 --> 00:01:37.630 align:start position:0%
+pattern
+ 
+
+00:01:37.630 --> 00:01:48.190 align:start position:0%
+pattern
+[Music]
+
+00:01:48.190 --> 00:01:48.200 align:start position:0%
+ 
+ 
+
+00:01:48.200 --> 00:01:50.630 align:start position:0%
+ 
+test<00:01:49.200><c> I</c><00:01:49.240><c> mean</c><00:01:49.439><c> that's</c><00:01:49.640><c> pretty</c>
+
+00:01:50.630 --> 00:01:50.640 align:start position:0%
+test I mean that's pretty
+ 
+
+00:01:50.640 --> 00:01:52.910 align:start position:0%
+test I mean that's pretty
+sweet<00:01:51.640><c> all</c><00:01:51.759><c> right</c><00:01:52.000><c> but</c><00:01:52.240><c> for</c><00:01:52.439><c> since</c><00:01:52.600><c> we</c><00:01:52.719><c> don't</c>
+
+00:01:52.910 --> 00:01:52.920 align:start position:0%
+sweet all right but for since we don't
+ 
+
+00:01:52.920 --> 00:01:54.910 align:start position:0%
+sweet all right but for since we don't
+have<00:01:53.119><c> that</c><00:01:53.280><c> we'll</c><00:01:53.479><c> just</c><00:01:53.719><c> have</c><00:01:54.000><c> more</c>
+
+00:01:54.910 --> 00:01:54.920 align:start position:0%
+have that we'll just have more
+ 
+
+00:01:54.920 --> 00:01:57.630 align:start position:0%
+have that we'll just have more
+rules<00:01:55.920><c> rather</c><00:01:56.200><c> than</c><00:01:56.360><c> a</c><00:01:56.560><c> lot</c><00:01:56.799><c> than</c><00:01:56.960><c> a</c><00:01:57.200><c> fewer</c>
+
+00:01:57.630 --> 00:01:57.640 align:start position:0%
+rules rather than a lot than a fewer
+ 
+
+00:01:57.640 --> 00:02:02.109 align:start position:0%
+rules rather than a lot than a fewer
+rules<00:01:58.360><c> that</c><00:01:59.039><c> capture</c><00:01:59.399><c> more</c><00:01:59.600><c> stuff</c><00:02:00.200><c> so</c><00:02:00.399><c> then</c>
+
+00:02:02.109 --> 00:02:02.119 align:start position:0%
+rules that capture more stuff so then
+ 
+
+00:02:02.119 --> 00:02:07.429 align:start position:0%
+rules that capture more stuff so then
+here<00:02:03.119><c> we</c><00:02:03.280><c> want</c><00:02:03.399><c> to</c><00:02:03.799><c> do</c><00:02:04.799><c> set</c><00:02:05.439><c> d</c><00:02:06.439><c> blank</c><00:02:06.799><c> Sim</c><00:02:07.159><c> blank</c>
+
+00:02:07.429 --> 00:02:07.439 align:start position:0%
+here we want to do set d blank Sim blank
+ 
+
+00:02:07.439 --> 00:02:10.830 align:start position:0%
+here we want to do set d blank Sim blank
+Sim<00:02:08.039><c> one</c><00:02:09.039><c> that's</c><00:02:09.280><c> pretty</c>
+
+00:02:10.830 --> 00:02:10.840 align:start position:0%
+Sim one that's pretty
+ 
+
+00:02:10.840 --> 00:02:17.910 align:start position:0%
+Sim one that's pretty
+good<00:02:11.840><c> and</c><00:02:11.959><c> then</c><00:02:12.120><c> what</c><00:02:12.239><c> about</c><00:02:12.520><c> this</c>
+
+00:02:17.910 --> 00:02:17.920 align:start position:0%
+ 
+ 
+
+00:02:17.920 --> 00:02:28.750 align:start position:0%
+ 
+one
+
+00:02:28.750 --> 00:02:28.760 align:start position:0%
+ 
+ 
+
+00:02:28.760 --> 00:02:30.830 align:start position:0%
+ 
+uh
+
+00:02:30.830 --> 00:02:30.840 align:start position:0%
+uh
+ 
+
+00:02:30.840 --> 00:02:33.790 align:start position:0%
+uh
+so<00:02:31.000><c> we're</c><00:02:31.160><c> implementing</c><00:02:31.760><c> times</c><00:02:32.720><c> a</c>
+
+00:02:33.790 --> 00:02:33.800 align:start position:0%
+so we're implementing times a
+ 
+
+00:02:33.800 --> 00:02:37.949 align:start position:0%
+so we're implementing times a
+constant<00:02:34.800><c> and</c><00:02:34.920><c> a</c><00:02:35.360><c> symbol</c><00:02:36.360><c> is</c><00:02:36.560><c> going</c><00:02:36.640><c> to</c><00:02:36.800><c> be</c><00:02:37.599><c> oh</c>
+
+00:02:37.949 --> 00:02:37.959 align:start position:0%
+constant and a symbol is going to be oh
+ 
+
+00:02:37.959 --> 00:02:40.430 align:start position:0%
+constant and a symbol is going to be oh
+wait<00:02:38.120><c> and</c><00:02:38.280><c> we</c><00:02:38.400><c> need</c><00:02:38.519><c> to</c><00:02:39.000><c> keep</c><00:02:39.360><c> we</c><00:02:39.560><c> keep</c>
+
+00:02:40.430 --> 00:02:40.440 align:start position:0%
+wait and we need to keep we keep
+ 
+
+00:02:40.440 --> 00:02:43.630 align:start position:0%
+wait and we need to keep we keep
+forgetting<00:02:41.440><c> so</c><00:02:41.680><c> this</c>
+
+00:02:43.630 --> 00:02:43.640 align:start position:0%
+forgetting so this
+ 
+
+00:02:43.640 --> 00:02:56.630 align:start position:0%
+forgetting so this
+is<00:02:44.640><c> D</c><00:02:44.879><c> of</c><00:02:45.080><c> X</c><00:02:45.879><c> with</c><00:02:46.000><c> the</c><00:02:46.120><c> second</c><00:02:46.360><c> Argus</c><00:02:46.760><c> D</c><00:02:46.959><c> of</c>
+
+00:02:56.630 --> 00:02:56.640 align:start position:0%
+ 
+ 
+
+00:02:56.640 --> 00:03:00.869 align:start position:0%
+ 
+X<00:02:57.640><c> then</c><00:02:57.840><c> here</c><00:02:57.959><c> we</c><00:02:58.080><c> need</c><00:02:58.760><c> another</c>
+
+00:03:00.869 --> 00:03:00.879 align:start position:0%
+X then here we need another
+ 
+
+00:03:00.879 --> 00:03:05.789 align:start position:0%
+X then here we need another
+pattern<00:03:01.400><c> x</c><00:03:02.080><c> blank</c><00:03:03.200><c> Sim</c><00:03:04.200><c> okay</c><00:03:05.000><c> so</c><00:03:05.319><c> then</c><00:03:05.599><c> that</c>
+
+00:03:05.789 --> 00:03:05.799 align:start position:0%
+pattern x blank Sim okay so then that
+ 
+
+00:03:05.799 --> 00:03:07.390 align:start position:0%
+pattern x blank Sim okay so then that
+should<00:03:06.040><c> be</c>
+
+00:03:07.390 --> 00:03:07.400 align:start position:0%
+should be
+ 
+
+00:03:07.400 --> 00:03:10.070 align:start position:0%
+should be
+good<00:03:08.400><c> then</c><00:03:08.560><c> we</c><00:03:08.959><c> need</c><00:03:09.080><c> to</c><00:03:09.360><c> copy</c><00:03:09.640><c> this</c><00:03:09.760><c> a</c><00:03:09.879><c> bunch</c>
+
+00:03:10.070 --> 00:03:10.080 align:start position:0%
+good then we need to copy this a bunch
+ 
+
+00:03:10.080 --> 00:03:15.190 align:start position:0%
+good then we need to copy this a bunch
+of<00:03:10.519><c> times</c><00:03:11.519><c> you</c><00:03:11.799><c> do</c><00:03:12.120><c> this</c><00:03:12.879><c> for</c>
+
+00:03:15.190 --> 00:03:15.200 align:start position:0%
+of times you do this for
+ 
+
+00:03:15.200 --> 00:03:18.869 align:start position:0%
+of times you do this for
+real<00:03:16.200><c> then</c><00:03:16.360><c> we</c><00:03:16.480><c> need</c><00:03:16.640><c> to</c><00:03:16.879><c> do</c>
+
+00:03:18.869 --> 00:03:18.879 align:start position:0%
+real then we need to do
+ 
+
+00:03:18.879 --> 00:03:28.670 align:start position:0%
+real then we need to do
+this<00:03:19.879><c> flipped</c><00:03:20.400><c> around</c><00:03:20.920><c> which</c><00:03:21.040><c> is</c><00:03:21.280><c> really</c>
+
+00:03:28.670 --> 00:03:28.680 align:start position:0%
+ 
+ 
+
+00:03:28.680 --> 00:03:38.149 align:start position:0%
+ 
+lame
+
+00:03:38.149 --> 00:03:38.159 align:start position:0%
+ 
+ 
+
+00:03:38.159 --> 00:03:49.030 align:start position:0%
+ 
+it's<00:03:38.360><c> really</c><00:03:38.640><c> lame</c><00:03:39.640><c> but</c><00:03:39.840><c> it's</c>
+
+00:03:49.030 --> 00:03:49.040 align:start position:0%
+ 
+ 
+
+00:03:49.040 --> 00:03:58.670 align:start position:0%
+ 
+fine<00:03:50.040><c> D</c><00:03:50.439><c> plus</c><00:03:50.760><c> pattern</c><00:03:51.120><c> one</c><00:03:51.400><c> blank</c><00:03:51.879><c> Sim</c><00:03:52.519><c> blank</c>
+
+00:03:58.670 --> 00:03:58.680 align:start position:0%
+ 
+ 
+
+00:03:58.680 --> 00:04:02.149 align:start position:0%
+ 
+Sim
+
+00:04:02.149 --> 00:04:02.159 align:start position:0%
+ 
+ 
+
+00:04:02.159 --> 00:04:04.630 align:start position:0%
+ 
+dude<00:04:02.439><c> this</c><00:04:02.560><c> thing</c><00:04:02.720><c> is</c><00:04:03.680><c> really</c>
+
+00:04:04.630 --> 00:04:04.640 align:start position:0%
+dude this thing is really
+ 
+
+00:04:04.640 --> 00:04:06.990 align:start position:0%
+dude this thing is really
+stupid<00:04:05.640><c> all</c><00:04:05.760><c> right</c><00:04:05.920><c> so</c><00:04:06.079><c> we'll</c><00:04:06.239><c> do</c><00:04:06.560><c> this</c><00:04:06.920><c> and</c>
+
+00:04:06.990 --> 00:04:07.000 align:start position:0%
+stupid all right so we'll do this and
+ 
+
+00:04:07.000 --> 00:04:10.470 align:start position:0%
+stupid all right so we'll do this and
+then<00:04:07.120><c> we'll</c><00:04:07.319><c> delete</c><00:04:07.799><c> all</c><00:04:08.000><c> of</c>
+
+00:04:10.470 --> 00:04:10.480 align:start position:0%
+ 
+ 
+
+00:04:10.480 --> 00:04:12.670 align:start position:0%
+ 
+this<00:04:11.480><c> and</c><00:04:11.599><c> then</c><00:04:11.720><c> we'll</c>
+
+00:04:12.670 --> 00:04:12.680 align:start position:0%
+this and then we'll
+ 
+
+00:04:12.680 --> 00:04:17.949 align:start position:0%
+this and then we'll
+delete<00:04:13.680><c> this</c><00:04:13.879><c> and</c>
+
+00:04:17.949 --> 00:04:17.959 align:start position:0%
+ 
+ 
+
+00:04:17.959 --> 00:04:20.150 align:start position:0%
+ 
+this<00:04:18.959><c> where</c><00:04:19.199><c> we</c><00:04:19.320><c> at</c><00:04:19.519><c> here</c><00:04:19.639><c> we're</c><00:04:19.799><c> at</c><00:04:19.880><c> the</c><00:04:20.000><c> end</c>
+
+00:04:20.150 --> 00:04:20.160 align:start position:0%
+this where we at here we're at the end
+ 
+
+00:04:20.160 --> 00:04:26.030 align:start position:0%
+this where we at here we're at the end
+of<00:04:20.320><c> D</c><00:04:20.840><c> so</c><00:04:21.040><c> now</c><00:04:21.199><c> we</c><00:04:21.320><c> want</c><00:04:21.400><c> to</c><00:04:21.680><c> do</c><00:04:22.680><c> is</c><00:04:22.960><c> equal</c>
+
+00:04:26.030 --> 00:04:26.040 align:start position:0%
+ 
+ 
+
+00:04:26.040 --> 00:04:30.310 align:start position:0%
+ 
+to<00:04:27.080><c> plus</c><00:04:28.080><c> d</c><00:04:28.680><c> exp</c><00:04:29.360><c> one</c>
+
+00:04:30.310 --> 00:04:30.320 align:start position:0%
+to plus d exp one
+ 
+
+00:04:30.320 --> 00:04:37.070 align:start position:0%
+to plus d exp one
+1<00:04:31.800><c> x</c><00:04:32.800><c> DX</c><00:04:33.199><c> for</c><00:04:33.360><c> 2x</c><00:04:34.039><c> yeah</c><00:04:34.320><c> that's</c>
+
+00:04:37.070 --> 00:04:37.080 align:start position:0%
+ 
+ 
+
+00:04:37.080 --> 00:04:38.880 align:start position:0%
+ 
+good<00:04:38.080><c> now</c><00:04:38.479><c> product</c>
+
+00:04:38.880 --> 00:04:38.890 align:start position:0%
+good now product
+ 
+
+00:04:38.890 --> 00:04:44.310 align:start position:0%
+good now product
+[Music]
+
+00:04:44.310 --> 00:04:44.320 align:start position:0%
+ 
+ 
+
+00:04:44.320 --> 00:04:46.749 align:start position:0%
+ 
+rule<00:04:45.320><c> oh</c><00:04:45.520><c> my</c><00:04:45.720><c> audio</c><00:04:45.960><c> should</c><00:04:46.120><c> be</c><00:04:46.280><c> better</c><00:04:46.560><c> this</c>
+
+00:04:46.749 --> 00:04:46.759 align:start position:0%
+rule oh my audio should be better this
+ 
+
+00:04:46.759 --> 00:04:48.270 align:start position:0%
+rule oh my audio should be better this
+time<00:04:47.160><c> I</c><00:04:47.320><c> uh</c><00:04:47.440><c> for</c><00:04:47.520><c> some</c><00:04:47.680><c> reason</c><00:04:47.880><c> it</c><00:04:47.919><c> was</c><00:04:48.080><c> like</c>
+
+00:04:48.270 --> 00:04:48.280 align:start position:0%
+time I uh for some reason it was like
+ 
+
+00:04:48.280 --> 00:04:51.070 align:start position:0%
+time I uh for some reason it was like
+super<00:04:48.639><c> quiet</c><00:04:48.919><c> so</c><00:04:49.039><c> I</c><00:04:49.160><c> bumped</c><00:04:49.400><c> it</c><00:04:49.479><c> up</c><00:04:49.680><c> like</c><00:04:49.840><c> 15D</c>
+
+00:04:51.070 --> 00:04:51.080 align:start position:0%
+super quiet so I bumped it up like 15D
+ 
+
+00:04:51.080 --> 00:04:54.790 align:start position:0%
+super quiet so I bumped it up like 15D
+DB<00:04:52.080><c> okay</c><00:04:52.360><c> set</c><00:04:52.639><c> d</c><00:04:53.120><c> d</c><00:04:53.520><c> times</c><00:04:53.960><c> pattern</c><00:04:54.280><c> blank</c>
+
+00:04:54.790 --> 00:04:54.800 align:start position:0%
+DB okay set d d times pattern blank
+ 
+
+00:04:54.800 --> 00:04:57.230 align:start position:0%
+DB okay set d d times pattern blank
+blank<00:04:55.720><c> x</c>
+
+00:04:57.230 --> 00:04:57.240 align:start position:0%
+blank x
+ 
+
+00:04:57.240 --> 00:05:00.110 align:start position:0%
+blank x
+uh<00:04:58.560><c> Plus</c>
+
+00:05:00.110 --> 00:05:00.120 align:start position:0%
+uh Plus
+ 
+
+00:05:00.120 --> 00:05:05.510 align:start position:0%
+uh Plus
+times<00:05:01.120><c> is</c><00:05:01.240><c> that</c><00:05:01.440><c> true</c><00:05:01.919><c> I</c><00:05:02.080><c> for</c><00:05:02.280><c> I</c><00:05:02.360><c> always</c>
+
+00:05:05.510 --> 00:05:05.520 align:start position:0%
+ 
+ 
+
+00:05:05.520 --> 00:05:13.110 align:start position:0%
+ 
+forget<00:05:06.520><c> where's</c><00:05:06.800><c> the</c><00:05:06.960><c> product</c>
+
+00:05:13.110 --> 00:05:13.120 align:start position:0%
+ 
+ 
+
+00:05:13.120 --> 00:05:16.990 align:start position:0%
+ 
+rule<00:05:14.120><c> oh</c><00:05:14.280><c> no</c><00:05:14.440><c> that's</c>
+
+00:05:16.990 --> 00:05:17.000 align:start position:0%
+ 
+ 
+
+00:05:17.000 --> 00:05:19.150 align:start position:0%
+ 
+right<00:05:18.000><c> we're</c><00:05:18.160><c> going</c><00:05:18.240><c> to</c><00:05:18.400><c> need</c><00:05:18.560><c> a</c><00:05:18.759><c> standard</c>
+
+00:05:19.150 --> 00:05:19.160 align:start position:0%
+right we're going to need a standard
+ 
+
+00:05:19.160 --> 00:05:20.870 align:start position:0%
+right we're going to need a standard
+form<00:05:19.800><c> we</c><00:05:20.000><c> really</c><00:05:20.199><c> are</c><00:05:20.440><c> we're</c><00:05:20.560><c> going</c><00:05:20.639><c> to</c><00:05:20.720><c> need</c>
+
+00:05:20.870 --> 00:05:20.880 align:start position:0%
+form we really are we're going to need
+ 
+
+00:05:20.880 --> 00:05:23.510 align:start position:0%
+form we really are we're going to need
+to<00:05:21.039><c> be</c><00:05:21.120><c> able</c><00:05:21.280><c> to</c><00:05:21.600><c> simplify</c><00:05:22.120><c> and</c>
+
+00:05:23.510 --> 00:05:23.520 align:start position:0%
+to be able to simplify and
+ 
+
+00:05:23.520 --> 00:05:26.870 align:start position:0%
+to be able to simplify and
+sort<00:05:24.520><c> Expressions</c>
+
+00:05:26.870 --> 00:05:26.880 align:start position:0%
+sort Expressions
+ 
+
+00:05:26.880 --> 00:05:28.469 align:start position:0%
+sort Expressions
+because
+
+00:05:28.469 --> 00:05:28.479 align:start position:0%
+because
+ 
+
+00:05:28.479 --> 00:05:31.029 align:start position:0%
+because
+otherwise
+
+00:05:31.029 --> 00:05:31.039 align:start position:0%
+otherwise
+ 
+
+00:05:31.039 --> 00:05:49.790 align:start position:0%
+otherwise
+the<00:05:31.199><c> whole</c><00:05:31.400><c> thing</c><00:05:31.560><c> is</c><00:05:31.720><c> just</c><00:05:31.880><c> a</c>
+
+00:05:49.790 --> 00:05:49.800 align:start position:0%
+ 
+ 
+
+00:05:49.800 --> 00:05:58.469 align:start position:0%
+ 
+mess
+
+00:05:58.469 --> 00:05:58.479 align:start position:0%
+ 
+ 
+
+00:05:58.479 --> 00:06:03.710 align:start position:0%
+ 
+okay
+
+00:06:03.710 --> 00:06:03.720 align:start position:0%
+ 
+ 
+
+00:06:03.720 --> 00:06:09.230 align:start position:0%
+ 
+for
+
+00:06:09.230 --> 00:06:09.240 align:start position:0%
+ 
+ 
+
+00:06:09.240 --> 00:06:11.469 align:start position:0%
+ 
+power
+
+00:06:11.469 --> 00:06:11.479 align:start position:0%
+power
+ 
+
+00:06:11.479 --> 00:06:23.430 align:start position:0%
+power
+um
+
+00:06:23.430 --> 00:06:23.440 align:start position:0%
+ 
+ 
+
+00:06:23.440 --> 00:06:25.589 align:start position:0%
+ 
+okay<00:06:24.440><c> I</c><00:06:24.560><c> might</c><00:06:24.680><c> have</c><00:06:24.800><c> called</c><00:06:25.000><c> it</c><00:06:25.199><c> pow</c>
+
+00:06:25.589 --> 00:06:25.599 align:start position:0%
+okay I might have called it pow
+ 
+
+00:06:25.599 --> 00:06:28.390 align:start position:0%
+okay I might have called it pow
+somewhere<00:06:25.919><c> else</c><00:06:26.319><c> these</c><00:06:26.520><c> namings</c><00:06:26.919><c> are</c><00:06:27.120><c> getting</c>
+
+00:06:28.390 --> 00:06:28.400 align:start position:0%
+somewhere else these namings are getting
+ 
+
+00:06:28.400 --> 00:06:58.390 align:start position:0%
+somewhere else these namings are getting
+crazy
+
+00:06:58.390 --> 00:06:58.400 align:start position:0%
+ 
+ 
+
+00:06:58.400 --> 00:07:07.629 align:start position:0%
+ 
+exper
+
+00:07:07.629 --> 00:07:07.639 align:start position:0%
+ 
+ 
+
+00:07:07.639 --> 00:07:24.510 align:start position:0%
+ 
+this<00:07:07.800><c> just</c><00:07:07.960><c> the</c><00:07:08.120><c> chain</c>
+
+00:07:24.510 --> 00:07:24.520 align:start position:0%
+ 
+ 
+
+00:07:24.520 --> 00:07:28.309 align:start position:0%
+ 
+roll<00:07:25.879><c> nice</c><00:07:26.879><c> I</c><00:07:27.000><c> think</c><00:07:27.160><c> that's</c><00:07:27.319><c> all</c>
+
+00:07:28.309 --> 00:07:28.319 align:start position:0%
+roll nice I think that's all
+ 
+
+00:07:28.319 --> 00:07:30.869 align:start position:0%
+roll nice I think that's all
+good
+
+00:07:30.869 --> 00:07:30.879 align:start position:0%
+good
+ 
+
+00:07:30.879 --> 00:07:58.309 align:start position:0%
+good
+oh<00:07:31.080><c> nice</c><00:07:31.240><c> and</c><00:07:31.400><c> we</c><00:07:31.520><c> get</c>
+
+00:07:58.309 --> 00:07:58.319 align:start position:0%
+ 
+ 
+
+00:07:58.319 --> 00:08:03.869 align:start position:0%
+ 
+this
+
+00:08:03.869 --> 00:08:03.879 align:start position:0%
+ 
+ 
+
+00:08:03.879 --> 00:08:07.270 align:start position:0%
+ 
+looks
+
+00:08:07.270 --> 00:08:07.280 align:start position:0%
+ 
+ 
+
+00:08:07.280 --> 00:08:14.629 align:start position:0%
+ 
+Goodtimes
+
+00:08:14.629 --> 00:08:14.639 align:start position:0%
+ 
+ 
+
+00:08:14.639 --> 00:08:19.990 align:start position:0%
+ 
+-1<00:08:15.639><c> that's</c>
+
+00:08:19.990 --> 00:08:20.000 align:start position:0%
+ 
+ 
+
+00:08:20.000 --> 00:08:28.230 align:start position:0%
+ 
+fine<00:08:21.000><c> all</c><00:08:21.120><c> right</c><00:08:21.319><c> yeah</c><00:08:21.440><c> let's</c><00:08:21.639><c> try</c>
+
+00:08:28.230 --> 00:08:28.240 align:start position:0%
+ 
+ 
+
+00:08:28.240 --> 00:08:40.149 align:start position:0%
+ 
+that
+
+00:08:40.149 --> 00:08:40.159 align:start position:0%
+ 
+ 
+
+00:08:40.159 --> 00:08:41.790 align:start position:0%
+ 
+all
+
+00:08:41.790 --> 00:08:41.800 align:start position:0%
+all
+ 
+
+00:08:41.800 --> 00:08:45.269 align:start position:0%
+all
+right<00:08:42.800><c> we</c><00:08:42.919><c> need</c><00:08:43.080><c> to</c><00:08:43.240><c> implement</c><00:08:43.920><c> get</c><00:08:44.920><c> get</c><00:08:45.120><c> would</c>
+
+00:08:45.269 --> 00:08:45.279 align:start position:0%
+right we need to implement get get would
+ 
+
+00:08:45.279 --> 00:08:58.190 align:start position:0%
+right we need to implement get get would
+be<00:08:45.480><c> really</c><00:08:45.680><c> nice</c><00:08:46.120><c> why</c><00:08:46.240><c> don't</c><00:08:46.399><c> I</c><00:08:46.519><c> just</c><00:08:46.680><c> add</c>
+
+00:08:58.190 --> 00:08:58.200 align:start position:0%
+ 
+ 
+
+00:08:58.200 --> 00:09:28.110 align:start position:0%
+ 
+get
+
+00:09:28.110 --> 00:09:28.120 align:start position:0%
+ 
+ 
+
+00:09:28.120 --> 00:09:50.430 align:start position:0%
+ 
+for
+
+00:09:50.430 --> 00:09:50.440 align:start position:0%
+ 
+ 
+
+00:09:50.440 --> 00:09:58.110 align:start position:0%
+ 
+um<00:09:51.440><c> let's</c><00:09:51.680><c> do</c>
+
+00:09:58.110 --> 00:09:58.120 align:start position:0%
+ 
+ 
+
+00:09:58.120 --> 00:10:04.190 align:start position:0%
+ 
+that
+
+00:10:04.190 --> 00:10:04.200 align:start position:0%
+ 
+ 
+
+00:10:04.200 --> 00:10:07.430 align:start position:0%
+ 
+okay<00:10:05.200><c> wait</c><00:10:05.480><c> wait</c><00:10:05.680><c> wait</c><00:10:05.920><c> wait</c><00:10:06.839><c> but</c><00:10:07.000><c> that's</c><00:10:07.240><c> not</c>
+
+00:10:07.430 --> 00:10:07.440 align:start position:0%
+okay wait wait wait wait but that's not
+ 
+
+00:10:07.440 --> 00:10:20.069 align:start position:0%
+okay wait wait wait wait but that's not
+going
+
+00:10:20.069 --> 00:10:20.079 align:start position:0%
+ 
+ 
+
+00:10:20.079 --> 00:10:28.030 align:start position:0%
+ 
+to
+
+00:10:28.030 --> 00:10:28.040 align:start position:0%
+ 
+ 
+
+00:10:28.040 --> 00:10:41.069 align:start position:0%
+ 
+um
+
+00:10:41.069 --> 00:10:41.079 align:start position:0%
+ 
+ 
+
+00:10:41.079 --> 00:10:48.030 align:start position:0%
+ 
+okay<00:10:41.320><c> fine</c><00:10:41.680><c> but</c><00:10:42.240><c> all</c><00:10:42.399><c> we</c><00:10:42.600><c> need</c>
+
+00:10:48.030 --> 00:10:48.040 align:start position:0%
+ 
+ 
+
+00:10:48.040 --> 00:10:53.949 align:start position:0%
+ 
+is<00:10:49.040><c> it's</c><00:10:49.240><c> going</c><00:10:49.360><c> to</c>
+
+00:10:53.949 --> 00:10:53.959 align:start position:0%
+ 
+ 
+
+00:10:53.959 --> 00:10:56.470 align:start position:0%
+ 
+take<00:10:54.959><c> oh</c><00:10:55.160><c> now</c><00:10:55.240><c> we're</c><00:10:55.399><c> getting</c><00:10:55.600><c> into</c><00:10:55.880><c> file</c><00:10:56.240><c> pass</c>
+
+00:10:56.470 --> 00:10:56.480 align:start position:0%
+take oh now we're getting into file pass
+ 
+
+00:10:56.480 --> 00:11:00.190 align:start position:0%
+take oh now we're getting into file pass
+it's<00:10:56.639><c> kind</c><00:10:56.720><c> of</c><00:10:56.839><c> annoying</c><00:10:57.279><c> but</c><00:10:58.040><c> but</c>
+
+00:11:00.190 --> 00:11:00.200 align:start position:0%
+it's kind of annoying but but
+ 
+
+00:11:00.200 --> 00:11:06.430 align:start position:0%
+it's kind of annoying but but
+I<00:11:00.680><c> think</c><00:11:01.000><c> this</c><00:11:01.079><c> should</c><00:11:01.279><c> be</c><00:11:01.480><c> fine</c><00:11:02.120><c> so</c><00:11:02.480><c> we</c><00:11:02.639><c> do</c>
+
+00:11:06.430 --> 00:11:06.440 align:start position:0%
+ 
+ 
+
+00:11:06.440 --> 00:11:09.069 align:start position:0%
+ 
+um<00:11:07.440><c> uh</c><00:11:07.639><c> P</c><00:11:07.959><c> of</c>
+
+00:11:09.069 --> 00:11:09.079 align:start position:0%
+um uh P of
+ 
+
+00:11:09.079 --> 00:11:13.550 align:start position:0%
+um uh P of
+type<00:11:10.200><c> uh</c>
+
+00:11:13.550 --> 00:11:13.560 align:start position:0%
+ 
+ 
+
+00:11:13.560 --> 00:11:17.990 align:start position:0%
+ 
+exper<00:11:14.600><c> match</c><00:11:15.600><c> P</c><00:11:16.480><c> oh</c><00:11:16.600><c> and</c><00:11:16.720><c> this</c><00:11:16.839><c> needs</c><00:11:17.000><c> to</c>
+
+00:11:17.990 --> 00:11:18.000 align:start position:0%
+exper match P oh and this needs to
+ 
+
+00:11:18.000 --> 00:11:20.790 align:start position:0%
+exper match P oh and this needs to
+return
+
+00:11:20.790 --> 00:11:20.800 align:start position:0%
+return
+ 
+
+00:11:20.800 --> 00:11:26.030 align:start position:0%
+return
+next
+
+00:11:26.030 --> 00:11:26.040 align:start position:0%
+ 
+ 
+
+00:11:26.040 --> 00:11:29.670 align:start position:0%
+ 
+so<00:11:27.040><c> actually</c><00:11:27.360><c> why</c><00:11:27.440><c> don't</c><00:11:27.959><c> we</c><00:11:29.040><c> why</c><00:11:29.160><c> don't</c><00:11:29.279><c> we</c>
+
+00:11:29.670 --> 00:11:29.680 align:start position:0%
+so actually why don't we why don't we
+ 
+
+00:11:29.680 --> 00:11:33.069 align:start position:0%
+so actually why don't we why don't we
+not<00:11:29.920><c> do</c>
+
+00:11:33.069 --> 00:11:33.079 align:start position:0%
+ 
+ 
+
+00:11:33.079 --> 00:11:36.829 align:start position:0%
+ 
+that<00:11:34.079><c> we</c><00:11:34.200><c> are</c><00:11:34.440><c> just</c><00:11:34.800><c> going</c><00:11:35.000><c> to</c><00:11:35.200><c> do</c><00:11:35.639><c> this</c><00:11:36.639><c> and</c>
+
+00:11:36.829 --> 00:11:36.839 align:start position:0%
+that we are just going to do this and
+ 
+
+00:11:36.839 --> 00:11:40.230 align:start position:0%
+that we are just going to do this and
+unwrap
+
+00:11:40.230 --> 00:11:40.240 align:start position:0%
+ 
+ 
+
+00:11:40.240 --> 00:11:53.949 align:start position:0%
+ 
+it<00:11:41.240><c> so</c><00:11:41.440><c> then</c><00:11:41.839><c> here</c><00:11:42.560><c> we're</c><00:11:42.760><c> going</c><00:11:42.839><c> to</c><00:11:43.160><c> say</c>
+
+00:11:53.949 --> 00:11:53.959 align:start position:0%
+ 
+ 
+
+00:11:53.959 --> 00:11:57.949 align:start position:0%
+ 
+um<00:11:54.959><c> evaluated</c><00:11:55.480><c> are</c><00:11:55.880><c> zero</c>
+
+00:11:57.949 --> 00:11:57.959 align:start position:0%
+um evaluated are zero
+ 
+
+00:11:57.959 --> 00:12:02.870 align:start position:0%
+um evaluated are zero
+oops
+
+00:12:02.870 --> 00:12:02.880 align:start position:0%
+ 
+ 
+
+00:12:02.880 --> 00:12:08.470 align:start position:0%
+ 
+um<00:12:03.880><c> uh</c><00:12:04.120><c> else</c><00:12:05.120><c> uh</c><00:12:05.480><c> print</c><00:12:05.880><c> line</c><00:12:06.720><c> um</c><00:12:07.600><c> get</c><00:12:08.000><c> takes</c>
+
+00:12:08.470 --> 00:12:08.480 align:start position:0%
+um uh else uh print line um get takes
+ 
+
+00:12:08.480 --> 00:12:10.990 align:start position:0%
+um uh else uh print line um get takes
+and<00:12:09.320><c> x</c><00:12:09.720><c> per</c>
+
+00:12:10.990 --> 00:12:11.000 align:start position:0%
+and x per
+ 
+
+00:12:11.000 --> 00:12:13.069 align:start position:0%
+and x per
+string<00:12:12.000><c> uh</c>
+
+00:12:13.069 --> 00:12:13.079 align:start position:0%
+string uh
+ 
+
+00:12:13.079 --> 00:12:16.269 align:start position:0%
+string uh
+return
+
+00:12:16.269 --> 00:12:16.279 align:start position:0%
+ 
+ 
+
+00:12:16.279 --> 00:12:19.870 align:start position:0%
+ 
+Sim<00:12:17.279><c> fail</c><00:12:17.959><c> okay</c><00:12:18.199><c> cool</c><00:12:19.120><c> and</c><00:12:19.279><c> it's</c><00:12:19.480><c> called</c><00:12:19.639><c> a</c>
+
+00:12:19.870 --> 00:12:19.880 align:start position:0%
+Sim fail okay cool and it's called a
+ 
+
+00:12:19.880 --> 00:12:22.509 align:start position:0%
+Sim fail okay cool and it's called a
+stir<00:12:20.880><c> okay</c><00:12:21.160><c> and</c><00:12:21.279><c> then</c><00:12:21.480><c> what</c><00:12:21.600><c> we</c><00:12:21.720><c> want</c><00:12:21.839><c> to</c><00:12:22.040><c> do</c><00:12:22.360><c> is</c>
+
+00:12:22.509 --> 00:12:22.519 align:start position:0%
+stir okay and then what we want to do is
+ 
+
+00:12:22.519 --> 00:12:25.829 align:start position:0%
+stir okay and then what we want to do is
+we<00:12:22.639><c> want</c><00:12:22.760><c> to</c><00:12:22.959><c> call</c><00:12:23.399><c> run</c><00:12:24.240><c> file</c><00:12:25.240><c> with</c><00:12:25.480><c> our</c>
+
+00:12:25.829 --> 00:12:25.839 align:start position:0%
+we want to call run file with our
+ 
+
+00:12:25.839 --> 00:12:31.150 align:start position:0%
+we want to call run file with our
+context<00:12:26.600><c> which</c><00:12:26.800><c> we</c><00:12:27.000><c> should</c><00:12:27.519><c> have</c><00:12:27.839><c> access</c><00:12:28.199><c> to</c>
+
+00:12:31.150 --> 00:12:31.160 align:start position:0%
+ 
+ 
+
+00:12:31.160 --> 00:12:37.670 align:start position:0%
+ 
+yeah<00:12:32.199><c> wait</c>
+
+00:12:37.670 --> 00:12:37.680 align:start position:0%
+ 
+ 
+
+00:12:37.680 --> 00:12:42.230 align:start position:0%
+ 
+yep<00:12:38.680><c> uh</c>
+
+00:12:42.230 --> 00:12:42.240 align:start position:0%
+ 
+ 
+
+00:12:42.240 --> 00:12:48.310 align:start position:0%
+ 
+um
+
+00:12:48.310 --> 00:12:48.320 align:start position:0%
+ 
+ 
+
+00:12:48.320 --> 00:12:57.829 align:start position:0%
+ 
+see
+
+00:12:57.829 --> 00:12:57.839 align:start position:0%
+ 
+ 
+
+00:12:57.839 --> 00:13:00.829 align:start position:0%
+ 
+um
+
+00:13:00.829 --> 00:13:00.839 align:start position:0%
+um
+ 
+
+00:13:00.839 --> 00:13:03.350 align:start position:0%
+um
+if<00:13:01.160><c> let</c>
+
+00:13:03.350 --> 00:13:03.360 align:start position:0%
+if let
+ 
+
+00:13:03.360 --> 00:13:06.629 align:start position:0%
+if let
+okay<00:13:04.360><c> and</c><00:13:04.480><c> then</c><00:13:04.720><c> this</c><00:13:04.880><c> is</c><00:13:05.040><c> going</c><00:13:05.240><c> to</c>
+
+00:13:06.629 --> 00:13:06.639 align:start position:0%
+okay and then this is going to
+ 
+
+00:13:06.639 --> 00:13:16.389 align:start position:0%
+okay and then this is going to
+be
+
+00:13:16.389 --> 00:13:16.399 align:start position:0%
+ 
+ 
+
+00:13:16.399 --> 00:13:27.750 align:start position:0%
+ 
+P<00:13:17.399><c> do</c>
+
+00:13:27.750 --> 00:13:27.760 align:start position:0%
+ 
+ 
+
+00:13:27.760 --> 00:13:32.710 align:start position:0%
+ 
+into
+
+00:13:32.710 --> 00:13:32.720 align:start position:0%
+ 
+ 
+
+00:13:32.720 --> 00:13:51.949 align:start position:0%
+ 
+string
+
+00:13:51.949 --> 00:13:51.959 align:start position:0%
+ 
+ 
+
+00:13:51.959 --> 00:13:54.629 align:start position:0%
+ 
+to<00:13:52.959><c> do</c><00:13:53.040><c> I</c><00:13:53.160><c> just</c><00:13:53.320><c> do</c>
+
+00:13:54.629 --> 00:13:54.639 align:start position:0%
+to do I just do
+ 
+
+00:13:54.639 --> 00:13:57.749 align:start position:0%
+to do I just do
+that<00:13:55.639><c> but</c><00:13:55.959><c> it's</c><00:13:56.079><c> going</c><00:13:56.199><c> to</c><00:13:56.440><c> return</c><00:13:56.639><c> an</c>
+
+00:13:57.749 --> 00:13:57.759 align:start position:0%
+that but it's going to return an
+ 
+
+00:13:57.759 --> 00:14:18.550 align:start position:0%
+that but it's going to return an
+option<00:13:59.240><c> isn't</c>
+
+00:14:18.550 --> 00:14:18.560 align:start position:0%
+ 
+ 
+
+00:14:18.560 --> 00:14:27.670 align:start position:0%
+ 
+it<00:14:19.560><c> all</c><00:14:19.639><c> right</c><00:14:19.759><c> let's</c><00:14:19.959><c> try</c>
+
+00:14:27.670 --> 00:14:27.680 align:start position:0%
+ 
+ 
+
+00:14:27.680 --> 00:14:55.069 align:start position:0%
+ 
+it
+
+00:14:55.069 --> 00:14:55.079 align:start position:0%
+ 
+ 
+
+00:14:55.079 --> 00:14:57.670 align:start position:0%
+ 
+right<00:14:56.079><c> should</c><00:14:56.279><c> I</c><00:14:56.399><c> just</c><00:14:56.680><c> return</c><00:14:56.839><c> an</c>
+
+00:14:57.670 --> 00:14:57.680 align:start position:0%
+right should I just return an
+ 
+
+00:14:57.680 --> 00:15:01.350 align:start position:0%
+right should I just return an
+option
+
+00:15:01.350 --> 00:15:01.360 align:start position:0%
+ 
+ 
+
+00:15:01.360 --> 00:15:11.470 align:start position:0%
+ 
+well<00:15:01.519><c> I</c><00:15:01.560><c> don't</c>
+
+00:15:11.470 --> 00:15:11.480 align:start position:0%
+ 
+ 
+
+00:15:11.480 --> 00:15:16.230 align:start position:0%
+ 
+first<00:15:12.480><c> okay</c><00:15:12.920><c> so</c><00:15:13.480><c> what's</c><00:15:13.759><c> going</c><00:15:14.079><c> on</c>
+
+00:15:16.230 --> 00:15:16.240 align:start position:0%
+first okay so what's going on
+ 
+
+00:15:16.240 --> 00:15:27.590 align:start position:0%
+first okay so what's going on
+um<00:15:17.240><c> Let</c><00:15:17.360><c> me</c><00:15:17.519><c> give</c><00:15:17.639><c> it</c><00:15:17.759><c> the</c><00:15:17.920><c> function</c>
+
+00:15:27.590 --> 00:15:27.600 align:start position:0%
+ 
+ 
+
+00:15:27.600 --> 00:15:37.710 align:start position:0%
+ 
+too
+
+00:15:37.710 --> 00:15:37.720 align:start position:0%
+ 
+ 
+
+00:15:37.720 --> 00:15:40.990 align:start position:0%
+ 
+oh<00:15:37.959><c> yeah</c><00:15:38.240><c> fine</c><00:15:38.440><c> what</c><00:15:38.519><c> do</c><00:15:38.639><c> we</c><00:15:38.800><c> do</c><00:15:39.040><c> we</c><00:15:39.160><c> do</c><00:15:39.720><c> uh</c><00:15:40.000><c> Sim</c>
+
+00:15:40.990 --> 00:15:41.000 align:start position:0%
+oh yeah fine what do we do we do uh Sim
+ 
+
+00:15:41.000 --> 00:15:44.389 align:start position:0%
+oh yeah fine what do we do we do uh Sim
+null<00:15:41.720><c> yeah</c><00:15:41.920><c> let's</c><00:15:42.120><c> just</c><00:15:42.279><c> do</c><00:15:42.560><c> that</c><00:15:43.279><c> why</c><00:15:43.440><c> not</c>
+
+00:15:44.389 --> 00:15:44.399 align:start position:0%
+null yeah let's just do that why not
+ 
+
+00:15:44.399 --> 00:15:48.509 align:start position:0%
+null yeah let's just do that why not
+that's<00:15:44.680><c> not</c>
+
+00:15:48.509 --> 00:15:48.519 align:start position:0%
+ 
+ 
+
+00:15:48.519 --> 00:15:50.870 align:start position:0%
+ 
+great
+
+00:15:50.870 --> 00:15:50.880 align:start position:0%
+great
+ 
+
+00:15:50.880 --> 00:15:54.949 align:start position:0%
+great
+um<00:15:51.880><c> I</c><00:15:52.040><c> don't</c><00:15:52.639><c> love</c>
+
+00:15:54.949 --> 00:15:54.959 align:start position:0%
+um I don't love
+ 
+
+00:15:54.959 --> 00:16:00.309 align:start position:0%
+um I don't love
+this<00:15:55.959><c> because</c><00:15:56.720><c> it's</c><00:15:57.720><c> ambig</c><00:15:58.920><c> us</c>
+
+00:16:00.309 --> 00:16:00.319 align:start position:0%
+this because it's ambig us
+ 
+
+00:16:00.319 --> 00:16:06.309 align:start position:0%
+this because it's ambig us
+whe<00:16:01.319><c> or</c><00:16:01.920><c> not</c><00:16:02.920><c> something</c><00:16:03.720><c> failed</c>
+
+00:16:06.309 --> 00:16:06.319 align:start position:0%
+whe or not something failed
+ 
+
+00:16:06.319 --> 00:16:10.749 align:start position:0%
+whe or not something failed
+in<00:16:07.319><c> in</c><00:16:07.639><c> reading</c><00:16:08.160><c> the</c><00:16:08.519><c> file</c><00:16:09.040><c> or</c>
+
+00:16:10.749 --> 00:16:10.759 align:start position:0%
+in in reading the file or
+ 
+
+00:16:10.759 --> 00:16:15.230 align:start position:0%
+in in reading the file or
+something<00:16:11.759><c> or</c><00:16:12.240><c> if</c><00:16:12.560><c> the</c><00:16:12.880><c> last</c><00:16:13.440><c> expert</c><00:16:14.120><c> in</c><00:16:14.600><c> the</c>
+
+00:16:15.230 --> 00:16:15.240 align:start position:0%
+something or if the last expert in the
+ 
+
+00:16:15.240 --> 00:16:19.430 align:start position:0%
+something or if the last expert in the
+file<00:16:16.240><c> uh</c><00:16:17.079><c> was</c><00:16:17.399><c> a</c><00:16:17.639><c> set</c><00:16:18.000><c> D</c><00:16:18.399><c> or</c>
+
+00:16:19.430 --> 00:16:19.440 align:start position:0%
+file uh was a set D or
+ 
+
+00:16:19.440 --> 00:16:24.910 align:start position:0%
+file uh was a set D or
+something<00:16:20.800><c> returns</c><00:16:21.839><c> a</c><00:16:22.839><c> no</c><00:16:23.720><c> okay</c><00:16:24.079><c> fine</c><00:16:24.639><c> but</c><00:16:24.839><c> I</c>
+
+00:16:24.910 --> 00:16:24.920 align:start position:0%
+something returns a no okay fine but I
+ 
+
+00:16:24.920 --> 00:16:27.509 align:start position:0%
+something returns a no okay fine but I
+do<00:16:25.160><c> not</c>
+
+00:16:27.509 --> 00:16:27.519 align:start position:0%
+ 
+ 
+
+00:16:27.519 --> 00:16:29.110 align:start position:0%
+ 
+care
+
+00:16:29.110 --> 00:16:29.120 align:start position:0%
+care
+ 
+
+00:16:29.120 --> 00:16:30.870 align:start position:0%
+care
+okay<00:16:29.279><c> now</c><00:16:29.399><c> I</c><00:16:29.480><c> should</c><00:16:29.639><c> be</c><00:16:29.720><c> able</c><00:16:29.839><c> to</c><00:16:29.959><c> do</c>
+
+00:16:30.870 --> 00:16:30.880 align:start position:0%
+okay now I should be able to do
+ 
+
+00:16:30.880 --> 00:16:33.590 align:start position:0%
+okay now I should be able to do
+get<00:16:31.959><c> uh</c>
+
+00:16:33.590 --> 00:16:33.600 align:start position:0%
+get uh
+ 
+
+00:16:33.600 --> 00:16:37.590 align:start position:0%
+get uh
+Slash<00:16:34.720><c> Lang</c><00:16:35.720><c> oh</c><00:16:36.120><c> tab</c><00:16:36.399><c> complete</c><00:16:36.800><c> would</c><00:16:36.920><c> be</c><00:16:37.079><c> nice</c>
+
+00:16:37.590 --> 00:16:37.600 align:start position:0%
+Slash Lang oh tab complete would be nice
+ 
+
+00:16:37.600 --> 00:16:42.030 align:start position:0%
+Slash Lang oh tab complete would be nice
+calculus
+
+00:16:42.030 --> 00:16:42.040 align:start position:0%
+ 
+ 
+
+00:16:42.040 --> 00:16:44.670 align:start position:0%
+ 
+doxer
+
+00:16:44.670 --> 00:16:44.680 align:start position:0%
+doxer
+ 
+
+00:16:44.680 --> 00:16:47.590 align:start position:0%
+doxer
+cool<00:16:45.680><c> but</c><00:16:45.920><c> see</c><00:16:46.240><c> I</c><00:16:46.399><c> actually</c><00:16:46.639><c> have</c><00:16:46.839><c> no</c>
+
+00:16:47.590 --> 00:16:47.600 align:start position:0%
+cool but see I actually have no
+ 
+
+00:16:47.600 --> 00:16:50.150 align:start position:0%
+cool but see I actually have no
+idea
+
+00:16:50.150 --> 00:16:50.160 align:start position:0%
+idea
+ 
+
+00:16:50.160 --> 00:16:54.910 align:start position:0%
+idea
+huh<00:16:51.160><c> I</c><00:16:51.279><c> have</c><00:16:51.440><c> no</c><00:16:52.000><c> idea</c><00:16:53.000><c> it's</c><00:16:53.160><c> not</c><00:16:53.800><c> great</c><00:16:54.800><c> well</c>
+
+00:16:54.910 --> 00:16:54.920 align:start position:0%
+huh I have no idea it's not great well
+ 
+
+00:16:54.920 --> 00:16:56.590 align:start position:0%
+huh I have no idea it's not great well
+let's
+
+00:16:56.590 --> 00:16:56.600 align:start position:0%
+let's
+ 
+
+00:16:56.600 --> 00:16:58.530 align:start position:0%
+let's
+see<00:16:57.600><c> down</c><00:16:58.199><c> Val</c>
+
+00:16:58.530 --> 00:16:58.540 align:start position:0%
+see down Val
+ 
+
+00:16:58.540 --> 00:16:59.870 align:start position:0%
+see down Val
+[Music]
+
+00:16:59.870 --> 00:16:59.880 align:start position:0%
+[Music]
+ 
+
+00:16:59.880 --> 00:17:02.710 align:start position:0%
+[Music]
+use<00:17:00.880><c> oh</c><00:17:01.079><c> no</c><00:17:01.519><c> we</c><00:17:01.680><c> got</c>
+
+00:17:02.710 --> 00:17:02.720 align:start position:0%
+use oh no we got
+ 
+
+00:17:02.720 --> 00:17:04.429 align:start position:0%
+use oh no we got
+him
+
+00:17:04.429 --> 00:17:04.439 align:start position:0%
+him
+ 
+
+00:17:04.439 --> 00:17:08.990 align:start position:0%
+him
+dxx<00:17:05.439><c> one</c><00:17:06.120><c> let's</c><00:17:06.600><c> go</c><00:17:07.039><c> that's</c><00:17:07.760><c> sick</c><00:17:08.760><c> all</c><00:17:08.880><c> right</c>
+
+00:17:08.990 --> 00:17:09.000 align:start position:0%
+dxx one let's go that's sick all right
+ 
+
+00:17:09.000 --> 00:17:13.230 align:start position:0%
+dxx one let's go that's sick all right
+so<00:17:09.120><c> what</c><00:17:09.199><c> are</c><00:17:09.319><c> the</c><00:17:09.439><c> test</c><00:17:09.679><c> cases</c>
+
+00:17:13.230 --> 00:17:13.240 align:start position:0%
+ 
+ 
+
+00:17:13.240 --> 00:17:15.990 align:start position:0%
+ 
+here<00:17:14.240><c> oh</c><00:17:14.439><c> we</c><00:17:14.679><c> forgot</c><00:17:14.959><c> to</c><00:17:15.079><c> comment</c><00:17:15.439><c> this</c><00:17:15.600><c> up</c>
+
+00:17:15.990 --> 00:17:16.000 align:start position:0%
+here oh we forgot to comment this up
+ 
+
+00:17:16.000 --> 00:17:19.630 align:start position:0%
+here oh we forgot to comment this up
+also<00:17:16.360><c> why</c><00:17:16.520><c> is</c><00:17:16.720><c> this</c><00:17:16.919><c> not</c><00:17:17.199><c> in</c><00:17:17.360><c> my</c><00:17:17.600><c> nice</c><00:17:18.640><c> closure</c>
+
+00:17:19.630 --> 00:17:19.640 align:start position:0%
+also why is this not in my nice closure
+ 
+
+00:17:19.640 --> 00:17:21.990 align:start position:0%
+also why is this not in my nice closure
+I<00:17:19.760><c> want</c><00:17:19.959><c> this</c><00:17:20.079><c> as</c><00:17:20.600><c> closure</c><00:17:21.600><c> okay</c><00:17:21.799><c> wait</c><00:17:21.919><c> we</c>
+
+00:17:21.990 --> 00:17:22.000 align:start position:0%
+I want this as closure okay wait we
+ 
+
+00:17:22.000 --> 00:17:25.029 align:start position:0%
+I want this as closure okay wait we
+forgot<00:17:22.240><c> to</c><00:17:22.520><c> comment</c><00:17:23.120><c> this</c><00:17:23.360><c> out</c><00:17:24.079><c> this</c><00:17:24.280><c> out</c><00:17:24.919><c> and</c>
+
+00:17:25.029 --> 00:17:25.039 align:start position:0%
+forgot to comment this out this out and
+ 
+
+00:17:25.039 --> 00:17:28.069 align:start position:0%
+forgot to comment this out this out and
+if<00:17:25.160><c> it</c><00:17:25.319><c> failed</c><00:17:25.679><c> to</c><00:17:26.000><c> what</c><00:17:26.160><c> happened</c><00:17:26.679><c> to</c><00:17:27.679><c> if</c><00:17:27.880><c> let</c>
+
+00:17:28.069 --> 00:17:28.079 align:start position:0%
+if it failed to what happened to if let
+ 
+
+00:17:28.079 --> 00:17:29.110 align:start position:0%
+if it failed to what happened to if let
+okay
+
+00:17:29.110 --> 00:17:29.120 align:start position:0%
+okay
+ 
+
+00:17:29.120 --> 00:17:30.789 align:start position:0%
+okay
+else
+
+00:17:30.789 --> 00:17:30.799 align:start position:0%
+else
+ 
+
+00:17:30.799 --> 00:17:37.830 align:start position:0%
+else
+else<00:17:31.799><c> uh</c><00:17:32.679><c> personing</c><00:17:33.039><c> line</c><00:17:33.280><c> content</c>
+
+00:17:37.830 --> 00:17:37.840 align:start position:0%
+ 
+ 
+
+00:17:37.840 --> 00:17:45.150 align:start position:0%
+ 
+okay<00:17:38.840><c> that</c><00:17:38.960><c> sounds</c>
+
+00:17:45.150 --> 00:17:45.160 align:start position:0%
+ 
+ 
+
+00:17:45.160 --> 00:17:48.110 align:start position:0%
+ 
+good<00:17:46.160><c> I</c><00:17:46.280><c> hate</c><00:17:46.440><c> that</c><00:17:46.559><c> it's</c><00:17:46.760><c> by</c><00:17:46.960><c> line</c><00:17:47.400><c> though</c>
+
+00:17:48.110 --> 00:17:48.120 align:start position:0%
+good I hate that it's by line though
+ 
+
+00:17:48.120 --> 00:17:50.070 align:start position:0%
+good I hate that it's by line though
+like<00:17:48.760><c> the</c><00:17:48.919><c> persons</c><00:17:49.280><c> needs</c><00:17:49.440><c> to</c><00:17:49.520><c> be</c><00:17:49.679><c> smarter</c>
+
+00:17:50.070 --> 00:17:50.080 align:start position:0%
+like the persons needs to be smarter
+ 
+
+00:17:50.080 --> 00:17:52.110 align:start position:0%
+like the persons needs to be smarter
+about<00:17:50.240><c> multi-line</c><00:17:50.880><c> functions</c><00:17:51.799><c> I</c><00:17:51.880><c> don't</c><00:17:52.000><c> know</c>
+
+00:17:52.110 --> 00:17:52.120 align:start position:0%
+about multi-line functions I don't know
+ 
+
+00:17:52.120 --> 00:17:55.310 align:start position:0%
+about multi-line functions I don't know
+what<00:17:52.200><c> to</c><00:17:52.320><c> do</c><00:17:52.480><c> about</c><00:17:52.760><c> that</c>
+
+00:17:55.310 --> 00:17:55.320 align:start position:0%
+ 
+ 
+
+00:17:55.320 --> 00:17:58.110 align:start position:0%
+ 
+but<00:17:56.320><c> it</c><00:17:56.480><c> needs</c><00:17:56.720><c> to</c><00:17:56.880><c> keep</c><00:17:57.120><c> going</c><00:17:57.440><c> until</c><00:17:57.679><c> it</c><00:17:57.799><c> sees</c>
+
+00:17:58.110 --> 00:17:58.120 align:start position:0%
+but it needs to keep going until it sees
+ 
+
+00:17:58.120 --> 00:18:08.990 align:start position:0%
+but it needs to keep going until it sees
+a
+
+00:18:08.990 --> 00:18:09.000 align:start position:0%
+ 
+ 
+
+00:18:09.000 --> 00:18:13.590 align:start position:0%
+ 
+okay<00:18:09.840><c> so</c>
+
+00:18:13.590 --> 00:18:13.600 align:start position:0%
+ 
+ 
+
+00:18:13.600 --> 00:18:21.710 align:start position:0%
+ 
+um<00:18:14.600><c> let's</c><00:18:14.799><c> try</c>
+
+00:18:21.710 --> 00:18:21.720 align:start position:0%
+ 
+ 
+
+00:18:21.720 --> 00:18:27.310 align:start position:0%
+ 
+it
+
+00:18:27.310 --> 00:18:27.320 align:start position:0%
+ 
+ 
+
+00:18:27.320 --> 00:18:31.909 align:start position:0%
+ 
+h
+
+00:18:31.909 --> 00:18:31.919 align:start position:0%
+ 
+ 
+
+00:18:31.919 --> 00:18:36.350 align:start position:0%
+ 
+because
+
+00:18:36.350 --> 00:18:36.360 align:start position:0%
+ 
+ 
+
+00:18:36.360 --> 00:18:41.149 align:start position:0%
+ 
+plus
+
+00:18:41.149 --> 00:18:41.159 align:start position:0%
+ 
+ 
+
+00:18:41.159 --> 00:18:55.710 align:start position:0%
+ 
+h
+
+00:18:55.710 --> 00:18:55.720 align:start position:0%
+ 
+ 
+
+00:18:55.720 --> 00:18:59.190 align:start position:0%
+ 
+yeah<00:18:57.039><c> okay</c><00:18:58.039><c> I</c><00:18:58.120><c> think</c><00:18:58.360><c> it'll</c><00:18:58.559><c> work</c><00:18:58.679><c> if</c><00:18:58.760><c> we</c><00:18:58.919><c> just</c>
+
+00:18:59.190 --> 00:18:59.200 align:start position:0%
+yeah okay I think it'll work if we just
+ 
+
+00:18:59.200 --> 00:19:11.350 align:start position:0%
+yeah okay I think it'll work if we just
+remove
+
+00:19:11.350 --> 00:19:11.360 align:start position:0%
+ 
+ 
+
+00:19:11.360 --> 00:19:14.870 align:start position:0%
+ 
+this<00:19:12.360><c> how</c><00:19:12.520><c> did</c><00:19:12.679><c> we</c><00:19:12.919><c> do</c><00:19:13.120><c> how</c><00:19:13.200><c> did</c><00:19:13.360><c> we</c><00:19:13.559><c> get</c><00:19:13.880><c> that</c>
+
+00:19:14.870 --> 00:19:14.880 align:start position:0%
+this how did we do how did we get that
+ 
+
+00:19:14.880 --> 00:19:27.230 align:start position:0%
+this how did we do how did we get that
+that's
+
+00:19:27.230 --> 00:19:27.240 align:start position:0%
+ 
+ 
+
+00:19:27.240 --> 00:19:41.549 align:start position:0%
+ 
+wrong
+
+00:19:41.549 --> 00:19:41.559 align:start position:0%
+ 
+ 
+
+00:19:41.559 --> 00:19:57.230 align:start position:0%
+ 
+H<00:19:42.559><c> so</c><00:19:42.720><c> we</c><00:19:42.840><c> got</c><00:19:43.039><c> the</c><00:19:43.200><c> three</c><00:19:44.120><c> right</c><00:19:45.120><c> 2</c>
+
+00:19:57.230 --> 00:19:57.240 align:start position:0%
+ 
+ 
+
+00:19:57.240 --> 00:20:13.430 align:start position:0%
+ 
+times
+
+00:20:13.430 --> 00:20:13.440 align:start position:0%
+ 
+ 
+
+00:20:13.440 --> 00:20:15.029 align:start position:0%
+ 
+what<00:20:13.600><c> should</c><00:20:13.720><c> it</c><00:20:13.880><c> be</c><00:20:14.000><c> it</c><00:20:14.080><c> should</c>
+
+00:20:15.029 --> 00:20:15.039 align:start position:0%
+what should it be it should
+ 
+
+00:20:15.039 --> 00:20:18.350 align:start position:0%
+what should it be it should
+be<00:20:16.039><c> n</c>
+
+00:20:18.350 --> 00:20:18.360 align:start position:0%
+be n
+ 
+
+00:20:18.360 --> 00:20:22.070 align:start position:0%
+be n
+*<00:20:19.360><c> xn</c>
+
+00:20:22.070 --> 00:20:22.080 align:start position:0%
+ 
+ 
+
+00:20:22.080 --> 00:20:25.070 align:start position:0%
+ 
+-1<00:20:23.080><c> time</c>
+
+00:20:25.070 --> 00:20:25.080 align:start position:0%
+-1 time
+ 
+
+00:20:25.080 --> 00:20:30.510 align:start position:0%
+-1 time
+D<00:20:26.080><c> I</c><00:20:26.200><c> think</c><00:20:26.360><c> we</c><00:20:26.480><c> want</c><00:20:26.600><c> to</c><00:20:26.760><c> do</c><00:20:27.200><c> this</c>
+
+00:20:30.510 --> 00:20:30.520 align:start position:0%
+ 
+ 
+
+00:20:30.520 --> 00:20:33.390 align:start position:0%
+ 
+clear
+
+00:20:33.390 --> 00:20:33.400 align:start position:0%
+clear
+ 
+
+00:20:33.400 --> 00:20:47.830 align:start position:0%
+clear
+D
+
+00:20:47.830 --> 00:20:47.840 align:start position:0%
+ 
+ 
+
+00:20:47.840 --> 00:20:50.789 align:start position:0%
+ 
+get<00:20:48.840><c> yeah</c><00:20:49.000><c> now</c><00:20:49.120><c> we</c><00:20:49.240><c> need</c><00:20:49.480><c> sorting</c><00:20:50.480><c> now</c><00:20:50.600><c> we</c><00:20:50.720><c> need</c>
+
+00:20:50.789 --> 00:20:50.799 align:start position:0%
+get yeah now we need sorting now we need
+ 
+
+00:20:50.799 --> 00:20:53.669 align:start position:0%
+get yeah now we need sorting now we need
+to
+
+00:20:53.669 --> 00:20:53.679 align:start position:0%
+ 
+ 
+
+00:20:53.679 --> 00:20:56.950 align:start position:0%
+ 
+sort<00:20:54.679><c> but</c><00:20:54.799><c> I</c><00:20:54.960><c> think</c><00:20:55.200><c> that</c>
+
+00:20:56.950 --> 00:20:56.960 align:start position:0%
+sort but I think that
+ 
+
+00:20:56.960 --> 00:21:03.470 align:start position:0%
+sort but I think that
+works<00:20:57.960><c> uh</c><00:20:58.360><c> uh</c><00:20:59.360><c> okay</c><00:21:00.360><c> so</c><00:21:00.559><c> we</c><00:21:00.679><c> want</c><00:21:00.799><c> to</c>
+
+00:21:03.470 --> 00:21:03.480 align:start position:0%
+ 
+ 
+
+00:21:03.480 --> 00:21:08.950 align:start position:0%
+ 
+do<00:21:04.480><c> so</c><00:21:04.799><c> wait</c><00:21:05.039><c> so</c><00:21:05.880><c> in</c>
+
+00:21:08.950 --> 00:21:08.960 align:start position:0%
+ 
+ 
+
+00:21:08.960 --> 00:21:12.110 align:start position:0%
+ 
+startup<00:21:09.960><c> let's</c><00:21:10.320><c> make</c><00:21:10.600><c> an</c>
+
+00:21:12.110 --> 00:21:12.120 align:start position:0%
+startup let's make an
+ 
+
+00:21:12.120 --> 00:21:15.430 align:start position:0%
+startup let's make an
+Ari<00:21:13.120><c> H</c><00:21:13.679><c> I</c><00:21:13.720><c> don't</c><00:21:13.880><c> know</c><00:21:14.799><c> and</c><00:21:14.919><c> then</c><00:21:15.039><c> I</c><00:21:15.159><c> want</c><00:21:15.320><c> this</c>
+
+00:21:15.430 --> 00:21:15.440 align:start position:0%
+Ari H I don't know and then I want this
+ 
+
+00:21:15.440 --> 00:21:20.549 align:start position:0%
+Ari H I don't know and then I want this
+to<00:21:15.559><c> be</c>
+
+00:21:20.549 --> 00:21:20.559 align:start position:0%
+ 
+ 
+
+00:21:20.559 --> 00:21:27.029 align:start position:0%
+ 
+closure<00:21:21.559><c> pattern</c><00:21:22.320><c> oh</c><00:21:22.720><c> yeah</c><00:21:22.919><c> that's</c>
+
+00:21:27.029 --> 00:21:27.039 align:start position:0%
+ 
+ 
+
+00:21:27.039 --> 00:21:57.029 align:start position:0%
+ 
+right
+
+00:21:57.029 --> 00:21:57.039 align:start position:0%
+ 
+ 
+
+00:21:57.039 --> 00:22:02.750 align:start position:0%
+ 
+for
+
+00:22:02.750 --> 00:22:02.760 align:start position:0%
+ 
+ 
+
+00:22:02.760 --> 00:22:08.789 align:start position:0%
+ 
+where<00:22:02.960><c> was</c><00:22:03.240><c> that</c>
+
+00:22:08.789 --> 00:22:08.799 align:start position:0%
+ 
+ 
+
+00:22:08.799 --> 00:22:14.190 align:start position:0%
+ 
+nice<00:22:09.799><c> uh</c><00:22:10.559><c> time</c>
+
+00:22:14.190 --> 00:22:14.200 align:start position:0%
+ 
+ 
+
+00:22:14.200 --> 00:22:26.950 align:start position:0%
+ 
+times
+
+00:22:26.950 --> 00:22:26.960 align:start position:0%
+ 
+ 
+
+00:22:26.960 --> 00:22:44.190 align:start position:0%
+ 
+uh
+
+00:22:44.190 --> 00:22:44.200 align:start position:0%
+ 
+ 
+
+00:22:44.200 --> 00:22:46.990 align:start position:0%
+ 
+right<00:22:45.200><c> so</c><00:22:45.400><c> I</c><00:22:45.520><c> think</c><00:22:45.640><c> we</c><00:22:45.760><c> can</c><00:22:45.919><c> do</c>
+
+00:22:46.990 --> 00:22:47.000 align:start position:0%
+right so I think we can do
+ 
+
+00:22:47.000 --> 00:22:51.230 align:start position:0%
+right so I think we can do
+that<00:22:48.000><c> we</c><00:22:48.120><c> can</c><00:22:48.320><c> do</c><00:22:48.919><c> this</c><00:22:49.919><c> in</c><00:22:50.440><c> system</c><00:22:50.840><c> no</c><00:22:51.039><c> not</c>
+
+00:22:51.230 --> 00:22:51.240 align:start position:0%
+that we can do this in system no not
+ 
+
+00:22:51.240 --> 00:22:53.990 align:start position:0%
+that we can do this in system no not
+systems<00:22:51.840><c> in</c><00:22:52.520><c> uh</c>
+
+00:22:53.990 --> 00:22:54.000 align:start position:0%
+systems in uh
+ 
+
+00:22:54.000 --> 00:22:58.470 align:start position:0%
+systems in uh
+startup<00:22:55.000><c> under</c><00:22:55.480><c> times</c><00:22:56.279><c> you</c><00:22:56.360><c> could</c><00:22:56.559><c> do</c><00:22:56.960><c> this</c>
+
+00:22:58.470 --> 00:22:58.480 align:start position:0%
+startup under times you could do this
+ 
+
+00:22:58.480 --> 00:23:01.190 align:start position:0%
+startup under times you could do this
+and<00:22:58.600><c> then</c><00:22:58.760><c> we</c><00:22:58.880><c> could</c>
+
+00:23:01.190 --> 00:23:01.200 align:start position:0%
+ 
+ 
+
+00:23:01.200 --> 00:23:04.269 align:start position:0%
+ 
+do<00:23:02.200><c> so</c><00:23:02.520><c> which</c><00:23:02.720><c> I</c><00:23:02.840><c> think</c><00:23:03.000><c> we</c><00:23:03.120><c> should</c><00:23:03.360><c> get</c><00:23:03.559><c> rid</c><00:23:03.720><c> of</c>
+
+00:23:04.269 --> 00:23:04.279 align:start position:0%
+do so which I think we should get rid of
+ 
+
+00:23:04.279 --> 00:23:12.390 align:start position:0%
+do so which I think we should get rid of
+both<00:23:04.760><c> of</c>
+
+00:23:12.390 --> 00:23:12.400 align:start position:0%
+ 
+ 
+
+00:23:12.400 --> 00:23:14.510 align:start position:0%
+ 
+these<00:23:13.400><c> uh</c><00:23:13.520><c> and</c><00:23:13.640><c> then</c><00:23:13.799><c> what</c><00:23:13.919><c> we</c><00:23:14.039><c> want</c><00:23:14.159><c> to</c><00:23:14.279><c> do</c>
+
+00:23:14.510 --> 00:23:14.520 align:start position:0%
+these uh and then what we want to do
+ 
+
+00:23:14.520 --> 00:23:16.630 align:start position:0%
+these uh and then what we want to do
+here<00:23:14.720><c> is</c><00:23:14.880><c> we</c><00:23:15.120><c> also</c><00:23:15.320><c> want</c><00:23:15.400><c> to</c>
+
+00:23:16.630 --> 00:23:16.640 align:start position:0%
+here is we also want to
+ 
+
+00:23:16.640 --> 00:23:20.510 align:start position:0%
+here is we also want to
+do<00:23:17.640><c> 1</c><00:23:18.320><c> is</c><00:23:18.559><c> equal</c><00:23:18.919><c> to</c>
+
+00:23:20.510 --> 00:23:20.520 align:start position:0%
+do 1 is equal to
+ 
+
+00:23:20.520 --> 00:23:24.669 align:start position:0%
+do 1 is equal to
+times<00:23:21.679><c> X's</c><00:23:22.679><c> y</c><00:23:23.320><c> I</c><00:23:23.400><c> think</c><00:23:23.600><c> that</c><00:23:23.840><c> that</c><00:23:24.039><c> is</c><00:23:24.360><c> pretty</c>
+
+00:23:24.669 --> 00:23:24.679 align:start position:0%
+times X's y I think that that is pretty
+ 
+
+00:23:24.679 --> 00:23:29.669 align:start position:0%
+times X's y I think that that is pretty
+good<00:23:25.559><c> so</c><00:23:25.760><c> then</c><00:23:25.960><c> if</c><00:23:26.080><c> you</c><00:23:26.240><c> do</c><00:23:26.880><c> this</c><00:23:28.039><c> we</c><00:23:28.240><c> do</c><00:23:28.679><c> this</c>
+
+00:23:29.669 --> 00:23:29.679 align:start position:0%
+good so then if you do this we do this
+ 
+
+00:23:29.679 --> 00:23:33.669 align:start position:0%
+good so then if you do this we do this
+now<00:23:29.880><c> if</c><00:23:30.000><c> we</c><00:23:30.400><c> take</c><00:23:30.600><c> our</c><00:23:30.760><c> derivative</c><00:23:31.799><c> again</c><00:23:32.799><c> 2x</c><00:23:33.400><c> +</c>
+
+00:23:33.669 --> 00:23:33.679 align:start position:0%
+now if we take our derivative again 2x +
+ 
+
+00:23:33.679 --> 00:23:37.070 align:start position:0%
+now if we take our derivative again 2x +
+3<00:23:34.120><c> that's</c><00:23:34.400><c> [&nbsp;__&nbsp;]</c><00:23:35.240><c> sick</c><00:23:36.240><c> that</c><00:23:36.360><c> is</c><00:23:36.559><c> [&nbsp;__&nbsp;]</c>
+
+00:23:37.070 --> 00:23:37.080 align:start position:0%
+3 that's [&nbsp;__&nbsp;] sick that is [&nbsp;__&nbsp;]
+ 
+
+00:23:37.080 --> 00:23:38.950 align:start position:0%
+3 that's [&nbsp;__&nbsp;] sick that is [&nbsp;__&nbsp;]
+rad<00:23:37.480><c> I</c><00:23:37.600><c> can't</c><00:23:37.760><c> believe</c><00:23:37.960><c> it</c><00:23:38.080><c> took</c><00:23:38.240><c> us</c><00:23:38.480><c> so</c><00:23:38.679><c> little</c>
+
+00:23:38.950 --> 00:23:38.960 align:start position:0%
+rad I can't believe it took us so little
+ 
+
+00:23:38.960 --> 00:23:39.990 align:start position:0%
+rad I can't believe it took us so little
+time<00:23:39.120><c> to</c><00:23:39.279><c> do</c>
+
+00:23:39.990 --> 00:23:40.000 align:start position:0%
+time to do
+ 
+
+00:23:40.000 --> 00:23:44.830 align:start position:0%
+time to do
+that<00:23:41.000><c> okay</c>
+
+00:23:44.830 --> 00:23:44.840 align:start position:0%
+ 
+ 
+
+00:23:44.840 --> 00:23:53.029 align:start position:0%
+ 
+cool
+
+00:23:53.029 --> 00:23:53.039 align:start position:0%
+ 
+ 
+
+00:23:53.039 --> 00:23:56.870 align:start position:0%
+ 
+um<00:23:54.039><c> D</c><00:23:54.600><c> bro</c><00:23:54.880><c> we</c><00:23:55.000><c> got</c><00:23:55.240><c> that</c>
+
+00:23:56.870 --> 00:23:56.880 align:start position:0%
+um D bro we got that
+ 
+
+00:23:56.880 --> 00:24:00.870 align:start position:0%
+um D bro we got that
+DD<00:23:58.320><c> all</c><00:23:58.400><c> right</c><00:23:58.559><c> let's</c>
+
+00:24:00.870 --> 00:24:00.880 align:start position:0%
+ 
+ 
+
+00:24:00.880 --> 00:24:03.070 align:start position:0%
+ 
+see
+
+00:24:03.070 --> 00:24:03.080 align:start position:0%
+see
+ 
+
+00:24:03.080 --> 00:24:23.909 align:start position:0%
+see
+times<00:24:04.080><c> to</c>
+
+00:24:23.909 --> 00:24:23.919 align:start position:0%
+ 
+ 
+
+00:24:23.919 --> 00:24:26.789 align:start position:0%
+ 
+X<00:24:24.919><c> I'm</c><00:24:25.159><c> curious</c><00:24:25.480><c> if</c><00:24:25.679><c> that</c>
+
+00:24:26.789 --> 00:24:26.799 align:start position:0%
+X I'm curious if that
+ 
+
+00:24:26.799 --> 00:24:53.860 align:start position:0%
+X I'm curious if that
+works
+
+00:24:53.860 --> 00:24:53.870 align:start position:0%
+ 
+ 
+
+00:24:53.870 --> 00:24:56.750 align:start position:0%
+ 
+[Music]
+
+00:24:56.750 --> 00:24:56.760 align:start position:0%
+[Music]
+ 
+
+00:24:56.760 --> 00:25:18.070 align:start position:0%
+[Music]
+h
+
+00:25:18.070 --> 00:25:18.080 align:start position:0%
+ 
+ 
+
+00:25:18.080 --> 00:25:19.470 align:start position:0%
+ 
+no<00:25:18.240><c> but</c><00:25:18.399><c> that's</c><00:25:18.520><c> just</c><00:25:18.600><c> an</c><00:25:18.720><c> alias</c><00:25:19.039><c> for</c><00:25:19.200><c> calling</c>
+
+00:25:19.470 --> 00:25:19.480 align:start position:0%
+no but that's just an alias for calling
+ 
+
+00:25:19.480 --> 00:25:26.669 align:start position:0%
+no but that's just an alias for calling
+length<00:25:19.919><c> that's</c>
+
+00:25:26.669 --> 00:25:26.679 align:start position:0%
+ 
+ 
+
+00:25:26.679 --> 00:25:33.389 align:start position:0%
+ 
+not
+
+00:25:33.389 --> 00:25:33.399 align:start position:0%
+ 
+ 
+
+00:25:33.399 --> 00:25:51.110 align:start position:0%
+ 
+no<00:25:33.679><c> what</c><00:25:33.840><c> I'm</c><00:25:34.000><c> looking</c><00:25:34.279><c> for</c><00:25:34.600><c> is</c>
+
+00:25:51.110 --> 00:25:51.120 align:start position:0%
+ 
+ 
+
+00:25:51.120 --> 00:25:56.669 align:start position:0%
+ 
+um<00:25:52.120><c> I</c><00:25:52.240><c> think</c><00:25:52.480><c> I'm</c><00:25:52.600><c> thinking</c><00:25:52.840><c> of</c>
+
+00:25:56.669 --> 00:25:56.679 align:start position:0%
+ 
+ 
+
+00:25:56.679 --> 00:26:14.590 align:start position:0%
+ 
+repeated
+
+00:26:14.590 --> 00:26:14.600 align:start position:0%
+ 
+ 
+
+00:26:14.600 --> 00:26:26.070 align:start position:0%
+ 
+okay<00:26:14.799><c> looks</c><00:26:14.960><c> like</c><00:26:15.080><c> we're</c>
+
+00:26:26.070 --> 00:26:26.080 align:start position:0%
+ 
+ 
+
+00:26:26.080 --> 00:26:34.350 align:start position:0%
+ 
+back<00:26:27.080><c> yeah</c>
+
+00:26:34.350 --> 00:26:34.360 align:start position:0%
+ 
+ 
+
+00:26:34.360 --> 00:26:45.510 align:start position:0%
+ 
+man<00:26:35.360><c> that's</c><00:26:35.640><c> [&nbsp;__&nbsp;]</c>
+
+00:26:45.510 --> 00:26:45.520 align:start position:0%
+ 
+ 
+
+00:26:45.520 --> 00:26:56.590 align:start position:0%
+ 
+cool<00:26:46.520><c> that's</c><00:26:46.720><c> actually</c><00:26:47.039><c> wild</c><00:26:47.480><c> what</c><00:26:47.640><c> the</c>
+
+00:26:56.590 --> 00:26:56.600 align:start position:0%
+ 
+ 
+
+00:26:56.600 --> 00:26:58.549 align:start position:0%
+ 
+hell
+
+00:26:58.549 --> 00:26:58.559 align:start position:0%
+hell
+ 
+
+00:26:58.559 --> 00:27:00.590 align:start position:0%
+hell
+that's<00:26:58.960><c> different</c><00:26:59.240><c> than</c><00:26:59.360><c> what</c><00:26:59.480><c> I</c><00:26:59.679><c> thought</c>
+
+00:27:00.590 --> 00:27:00.600 align:start position:0%
+that's different than what I thought
+ 
+
+00:27:00.600 --> 00:27:16.710 align:start position:0%
+that's different than what I thought
+that's<00:27:00.840><c> cool</c>
+
+00:27:16.710 --> 00:27:16.720 align:start position:0%
+ 
+ 
+
+00:27:16.720 --> 00:27:19.750 align:start position:0%
+ 
+though<00:27:17.720><c> what</c><00:27:17.919><c> I'm</c><00:27:18.120><c> thinking</c><00:27:18.399><c> of</c><00:27:18.600><c> is</c><00:27:18.840><c> like</c><00:27:19.640><c> what</c>
+
+00:27:19.750 --> 00:27:19.760 align:start position:0%
+though what I'm thinking of is like what
+ 
+
+00:27:19.760 --> 00:27:21.549 align:start position:0%
+though what I'm thinking of is like what
+is<00:27:19.880><c> the</c><00:27:20.039><c> pattern</c><00:27:20.399><c> object</c><00:27:20.679><c> that</c><00:27:20.799><c> lets</c><00:27:21.000><c> me</c><00:27:21.240><c> say</c>
+
+00:27:21.549 --> 00:27:21.559 align:start position:0%
+is the pattern object that lets me say
+ 
+
+00:27:21.559 --> 00:27:26.510 align:start position:0%
+is the pattern object that lets me say
+that<00:27:21.919><c> each</c><00:27:22.120><c> one</c><00:27:22.320><c> in</c><00:27:22.440><c> the</c><00:27:22.559><c> sequence</c><00:27:22.919><c> are</c>
+
+00:27:26.510 --> 00:27:26.520 align:start position:0%
+ 
+ 
+
+00:27:26.520 --> 00:27:34.870 align:start position:0%
+ 
+equal
+
+00:27:34.870 --> 00:27:34.880 align:start position:0%
+ 
+ 
+
+00:27:34.880 --> 00:27:38.590 align:start position:0%
+ 
+because<00:27:35.080><c> we</c><00:27:35.200><c> want</c><00:27:35.320><c> to</c><00:27:35.559><c> reduce</c><00:27:36.039><c> the</c><00:27:36.360><c> uh</c><00:27:36.520><c> the</c>
+
+00:27:38.590 --> 00:27:38.600 align:start position:0%
+because we want to reduce the uh the
+ 
+
+00:27:38.600 --> 00:27:42.029 align:start position:0%
+because we want to reduce the uh the
+times<00:27:39.840><c> stuff</c><00:27:40.840><c> okay</c><00:27:41.039><c> but</c><00:27:41.440><c> what</c><00:27:41.600><c> what's</c><00:27:41.720><c> up</c><00:27:41.880><c> with</c>
+
+00:27:42.029 --> 00:27:42.039 align:start position:0%
+times stuff okay but what what's up with
+ 
+
+00:27:42.039 --> 00:27:42.990 align:start position:0%
+times stuff okay but what what's up with
+this
+
+00:27:42.990 --> 00:27:43.000 align:start position:0%
+this
+ 
+
+00:27:43.000 --> 00:27:56.029 align:start position:0%
+this
+one<00:27:44.000><c> is</c><00:27:44.159><c> that</c>
+
+00:27:56.029 --> 00:27:56.039 align:start position:0%
+ 
+ 
+
+00:27:56.039 --> 00:28:12.549 align:start position:0%
+ 
+right<00:27:57.039><c> let</c><00:27:57.519><c> let's</c><00:27:57.799><c> find</c>
+
+00:28:12.549 --> 00:28:12.559 align:start position:0%
+ 
+ 
+
+00:28:12.559 --> 00:28:17.029 align:start position:0%
+ 
+out<00:28:13.559><c> yeah</c><00:28:13.679><c> we</c><00:28:13.840><c> got</c>
+
+00:28:17.029 --> 00:28:17.039 align:start position:0%
+ 
+ 
+
+00:28:17.039 --> 00:28:26.070 align:start position:0%
+ 
+it<00:28:18.039><c> it's</c><00:28:18.279><c> not</c><00:28:18.600><c> elegant</c>
+
+00:28:26.070 --> 00:28:26.080 align:start position:0%
+ 
+ 
+
+00:28:26.080 --> 00:28:28.830 align:start position:0%
+ 
+but<00:28:27.080><c> why</c><00:28:27.159><c> is</c><00:28:27.240><c> it</c><00:28:27.480><c> trying</c><00:28:27.600><c> to</c><00:28:27.679><c> do</c><00:28:27.799><c> a</c><00:28:27.960><c> set</c><00:28:28.240><c> D</c><00:28:28.559><c> here</c>
+
+00:28:28.830 --> 00:28:28.840 align:start position:0%
+but why is it trying to do a set D here
+ 
+
+00:28:28.840 --> 00:28:40.310 align:start position:0%
+but why is it trying to do a set D here
+you<00:28:29.000><c> guys</c><00:28:29.120><c> are</c>
+
+00:28:40.310 --> 00:28:40.320 align:start position:0%
+ 
+ 
+
+00:28:40.320 --> 00:28:42.549 align:start position:0%
+ 
+dumb<00:28:41.320><c> should</c><00:28:41.600><c> we</c><00:28:41.840><c> should</c><00:28:42.039><c> we</c><00:28:42.159><c> start</c><00:28:42.360><c> to</c>
+
+00:28:42.549 --> 00:28:42.559 align:start position:0%
+dumb should we should we start to
+ 
+
+00:28:42.559 --> 00:28:45.269 align:start position:0%
+dumb should we should we start to
+implement<00:28:43.000><c> more</c><00:28:43.679><c> attributes</c><00:28:44.480><c> I</c><00:28:44.559><c> don't</c>
+
+00:28:45.269 --> 00:28:45.279 align:start position:0%
+implement more attributes I don't
+ 
+
+00:28:45.279 --> 00:28:47.750 align:start position:0%
+implement more attributes I don't
+know<00:28:46.279><c> I</c><00:28:46.399><c> guess</c><00:28:46.559><c> we'll</c><00:28:46.799><c> need</c><00:28:47.039><c> to</c><00:28:47.360><c> but</c><00:28:47.480><c> it's</c><00:28:47.679><c> kind</c>
+
+00:28:47.750 --> 00:28:47.760 align:start position:0%
+know I guess we'll need to but it's kind
+ 
+
+00:28:47.760 --> 00:28:53.110 align:start position:0%
+know I guess we'll need to but it's kind
+of<00:28:48.200><c> like</c><00:28:49.200><c> you</c><00:28:49.320><c> know</c>
+
+00:28:53.110 --> 00:28:53.120 align:start position:0%
+ 
+ 
+
+00:28:53.120 --> 00:28:55.750 align:start position:0%
+ 
+whatever
+
+00:28:55.750 --> 00:28:55.760 align:start position:0%
+whatever
+ 
+
+00:28:55.760 --> 00:28:58.789 align:start position:0%
+whatever
+okay<00:28:56.760><c> 2X</c>
+
+00:28:58.789 --> 00:28:58.799 align:start position:0%
+okay 2X
+ 
+
+00:28:58.799 --> 00:29:04.350 align:start position:0%
+okay 2X
+times<00:28:59.799><c> and</c><00:29:00.000><c> let's</c><00:29:00.240><c> check</c><00:29:00.440><c> if</c><00:29:00.640><c> that's</c>
+
+00:29:04.350 --> 00:29:04.360 align:start position:0%
+ 
+ 
+
+00:29:04.360 --> 00:29:10.389 align:start position:0%
+ 
+right<00:29:05.360><c> 2</c><00:29:05.559><c> *</c><00:29:06.039><c> e</c><00:29:07.000><c> x^2</c><00:29:08.000><c> *</c><00:29:08.559><c> X</c><00:29:09.559><c> oh</c><00:29:09.720><c> that's</c><00:29:09.919><c> perfect</c><00:29:10.279><c> we</c>
+
+00:29:10.389 --> 00:29:10.399 align:start position:0%
+right 2 * e x^2 * X oh that's perfect we
+ 
+
+00:29:10.399 --> 00:29:13.630 align:start position:0%
+right 2 * e x^2 * X oh that's perfect we
+got<00:29:10.519><c> it</c><00:29:11.159><c> right</c>
+
+00:29:13.630 --> 00:29:13.640 align:start position:0%
+got it right
+ 
+
+00:29:13.640 --> 00:29:15.870 align:start position:0%
+got it right
+cool
+
+00:29:15.870 --> 00:29:15.880 align:start position:0%
+cool
+ 
+
+00:29:15.880 --> 00:29:26.310 align:start position:0%
+cool
+um
+
+00:29:26.310 --> 00:29:26.320 align:start position:0%
+ 
+ 
+
+00:29:26.320 --> 00:29:27.909 align:start position:0%
+ 
+uh
+
+00:29:27.909 --> 00:29:27.919 align:start position:0%
+uh
+ 
+
+00:29:27.919 --> 00:29:29.669 align:start position:0%
+uh
+all<00:29:28.120><c> right</c><00:29:28.360><c> so</c><00:29:28.640><c> what</c><00:29:28.760><c> was</c><00:29:28.919><c> that</c><00:29:29.159><c> probably</c><00:29:29.399><c> 20</c>
+
+00:29:29.669 --> 00:29:29.679 align:start position:0%
+all right so what was that probably 20
+ 
+
+00:29:29.679 --> 00:29:32.470 align:start position:0%
+all right so what was that probably 20
+minute<00:29:30.240><c> stream</c><00:29:31.240><c> 30</c><00:29:31.600><c> minute</c><00:29:31.840><c> stream</c><00:29:32.159><c> that's</c><00:29:32.279><c> a</c>
+
+00:29:32.470 --> 00:29:32.480 align:start position:0%
+minute stream 30 minute stream that's a
+ 
+
+00:29:32.480 --> 00:29:34.870 align:start position:0%
+minute stream 30 minute stream that's a
+perfect<00:29:32.840><c> length</c><00:29:33.480><c> for</c><00:29:33.720><c> a</c><00:29:33.960><c> for</c><00:29:34.159><c> a</c><00:29:34.399><c> good</c><00:29:34.640><c> thing</c>
+
+00:29:34.870 --> 00:29:34.880 align:start position:0%
+perfect length for a for a good thing
+ 
+
+00:29:34.880 --> 00:29:36.389 align:start position:0%
+perfect length for a for a good thing
+like
+
+00:29:36.389 --> 00:29:36.399 align:start position:0%
+like
+ 
+
+00:29:36.399 --> 00:29:41.590 align:start position:0%
+like
+this<00:29:37.480><c> Implement</c><00:29:38.919><c> basic</c><00:29:40.200><c> symbolic</c>
+
+00:29:41.590 --> 00:29:41.600 align:start position:0%
+this Implement basic symbolic
+ 
+
+00:29:41.600 --> 00:29:44.630 align:start position:0%
+this Implement basic symbolic
+[Music]
+
+00:29:44.630 --> 00:29:44.640 align:start position:0%
+[Music]
+ 
+
+00:29:44.640 --> 00:29:48.110 align:start position:0%
+[Music]
+differentiation<00:29:45.640><c> that's</c><00:29:46.000><c> sweet</c>
+
+00:29:48.110 --> 00:29:48.120 align:start position:0%
+differentiation that's sweet
+ 
+
+00:29:48.120 --> 00:29:55.029 align:start position:0%
+differentiation that's sweet
+man<00:29:49.120><c> let's</c><00:29:49.279><c> add</c><00:29:49.480><c> it</c><00:29:49.600><c> to</c><00:29:49.799><c> the</c><00:29:49.919><c> read</c>
+
+00:29:55.029 --> 00:29:55.039 align:start position:0%
+ 
+ 
+
+00:29:55.039 --> 00:30:03.110 align:start position:0%
+ 
+me<00:29:56.039><c> symbolic</c><00:29:56.960><c> diff</c>
+
+00:30:03.110 --> 00:30:03.120 align:start position:0%
+ 
+ 
+
+00:30:03.120 --> 00:30:04.750 align:start position:0%
+ 
+differentiation
+
+00:30:04.750 --> 00:30:04.760 align:start position:0%
+differentiation
+ 
+
+00:30:04.760 --> 00:30:12.190 align:start position:0%
+differentiation
+[Music]
+
+00:30:12.190 --> 00:30:12.200 align:start position:0%
+[Music]
+ 
+
+00:30:12.200 --> 00:30:17.190 align:start position:0%
+[Music]
+yeah<00:30:13.200><c> um</c><00:30:13.440><c> where's</c><00:30:13.640><c> our</c><00:30:13.840><c> read</c><00:30:14.120><c> me</c><00:30:14.640><c> we</c><00:30:14.799><c> going</c><00:30:14.919><c> to</c>
+
+00:30:17.190 --> 00:30:17.200 align:start position:0%
+ 
+ 
+
+00:30:17.200 --> 00:30:23.149 align:start position:0%
+ 
+say<00:30:18.399><c> C</c><00:30:19.399><c> definition</c><00:30:20.360><c> of</c><00:30:21.640><c> d</c>
+
+00:30:23.149 --> 00:30:23.159 align:start position:0%
+say C definition of d
+ 
+
+00:30:23.159 --> 00:30:25.310 align:start position:0%
+say C definition of d
+in
+
+00:30:25.310 --> 00:30:25.320 align:start position:0%
+in
+ 
+
+00:30:25.320 --> 00:30:45.580 align:start position:0%
+in
+Lang<00:30:26.320><c> the</c><00:30:26.559><c> hell</c>
+
+00:30:45.580 --> 00:30:45.590 align:start position:0%
+ 
+ 
+
+00:30:45.590 --> 00:30:56.230 align:start position:0%
+ 
+[Music]
+
+00:30:56.230 --> 00:30:56.240 align:start position:0%
+ 
+ 
+
+00:30:56.240 --> 00:31:07.750 align:start position:0%
+ 
+oh
+
+00:31:07.750 --> 00:31:07.760 align:start position:0%
+ 
+ 
+
+00:31:07.760 --> 00:31:13.110 align:start position:0%
+ 
+uh
+
+00:31:13.110 --> 00:31:13.120 align:start position:0%
+ 
+ 
+
+00:31:13.120 --> 00:31:16.430 align:start position:0%
+ 
+flat<00:31:14.120><c> are</c>
+
+00:31:16.430 --> 00:31:16.440 align:start position:0%
+flat are
+ 
+
+00:31:16.440 --> 00:31:18.269 align:start position:0%
+flat are
+not
+
+00:31:18.269 --> 00:31:18.279 align:start position:0%
+not
+ 
+
+00:31:18.279 --> 00:31:21.190 align:start position:0%
+not
+so<00:31:19.279><c> the</c>
+
+00:31:21.190 --> 00:31:21.200 align:start position:0%
+so the
+ 
+
+00:31:21.200 --> 00:31:23.230 align:start position:0%
+so the
+derivative<00:31:22.200><c> of</c>
+
+00:31:23.230 --> 00:31:23.240 align:start position:0%
+derivative of
+ 
+
+00:31:23.240 --> 00:31:30.070 align:start position:0%
+derivative of
+correct<00:31:24.240><c> is</c><00:31:24.559><c> not</c><00:31:25.080><c> in</c><00:31:26.159><c> simp</c>
+
+00:31:30.070 --> 00:31:30.080 align:start position:0%
+ 
+ 
+
+00:31:30.080 --> 00:31:37.269 align:start position:0%
+ 
+cool
+
+00:31:37.269 --> 00:31:37.279 align:start position:0%
+ 
+ 
+
+00:31:37.279 --> 00:31:43.269 align:start position:0%
+ 
+man<00:31:38.279><c> add</c><00:31:38.519><c> it</c><00:31:39.039><c> to</c><00:31:39.480><c> add</c><00:31:39.840><c> D</c>
+
+00:31:43.269 --> 00:31:43.279 align:start position:0%
+ 
+ 
+
+00:31:43.279 --> 00:31:56.149 align:start position:0%
+ 
+to<00:31:44.279><c> that</c>
+
+00:31:56.149 --> 00:31:56.159 align:start position:0%
+ 
+ 
+
+00:31:56.159 --> 00:32:52.350 align:start position:0%
+ 
+deep
+
+00:32:52.350 --> 00:32:52.360 align:start position:0%
+ 
+ 
+
+00:32:52.360 --> 00:32:55.430 align:start position:0%
+ 
+okay<00:32:52.679><c> hold</c><00:32:52.960><c> hold</c>
+
+00:32:55.430 --> 00:32:55.440 align:start position:0%
+ 
+ 
+
+00:32:55.440 --> 00:32:58.440 align:start position:0%
+ 
+on
+
