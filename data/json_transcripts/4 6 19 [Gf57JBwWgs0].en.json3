@@ -1,0 +1,677 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 729489,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 7760,
+    "dDurationMs": 17560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oh",
+      "acAsrConf": 208
+    }, {
+      "utf8": " if",
+      "tOffsetMs": 1440,
+      "acAsrConf": 225
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2440,
+      "acAsrConf": 220
+    }, {
+      "utf8": " sunrise",
+      "tOffsetMs": 2620,
+      "acAsrConf": 167
+    }, {
+      "utf8": " it'll",
+      "tOffsetMs": 2950,
+      "acAsrConf": 249
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 3190,
+      "acAsrConf": 252
+    }, {
+      "utf8": " over",
+      "tOffsetMs": 3250,
+      "acAsrConf": 252
+    }, {
+      "utf8": " there",
+      "tOffsetMs": 3339,
+      "acAsrConf": 226
+    }, {
+      "utf8": " no",
+      "tOffsetMs": 13529,
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 22279,
+    "dDurationMs": 3041,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 22289,
+    "dDurationMs": 11191,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diving",
+      "acAsrConf": 236
+    }, {
+      "utf8": " who's",
+      "tOffsetMs": 421,
+      "acAsrConf": 233
+    }, {
+      "utf8": " diving",
+      "tOffsetMs": 871,
+      "acAsrConf": 252
+    }, {
+      "utf8": " but",
+      "tOffsetMs": 1591,
+      "acAsrConf": 226
+    }, {
+      "utf8": " I",
+      "tOffsetMs": 2580,
+      "acAsrConf": 233
+    }, {
+      "utf8": " guess",
+      "tOffsetMs": 2611,
+      "acAsrConf": 252
+    }, {
+      "utf8": " they",
+      "tOffsetMs": 2851,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 25310,
+    "dDurationMs": 8170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 25320,
+    "dDurationMs": 12200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have",
+      "acAsrConf": 252
+    }, {
+      "utf8": " besides",
+      "tOffsetMs": 119,
+      "acAsrConf": 228
+    }, {
+      "utf8": " that's",
+      "tOffsetMs": 510,
+      "acAsrConf": 236
+    }, {
+      "utf8": " good",
+      "tOffsetMs": 779,
+      "acAsrConf": 252
+    }, {
+      "utf8": " just",
+      "tOffsetMs": 1340,
+      "acAsrConf": 206
+    }, {
+      "utf8": " do",
+      "tOffsetMs": 7100,
+      "acAsrConf": 145
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 8100,
+      "acAsrConf": 201
+    } ]
+  }, {
+    "tStartMs": 33470,
+    "dDurationMs": 4050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 33480,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guys",
+      "acAsrConf": 219
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 120,
+      "acAsrConf": 235
+    }, {
+      "utf8": " see",
+      "tOffsetMs": 360,
+      "acAsrConf": 252
+    }, {
+      "utf8": " it's",
+      "tOffsetMs": 630,
+      "acAsrConf": 252
+    }, {
+      "utf8": " really",
+      "tOffsetMs": 840,
+      "acAsrConf": 229
+    }, {
+      "utf8": " pretty",
+      "tOffsetMs": 1800,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 44830,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 44840,
+    "dDurationMs": 3159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Applause]"
+    } ]
+  }, {
+    "tStartMs": 81220,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 81230,
+    "dDurationMs": 20139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 97700,
+    "dDurationMs": 3669,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 97710,
+    "dDurationMs": 3659,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's",
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1000,
+      "acAsrConf": 252
+    }, {
+      "utf8": " better",
+      "tOffsetMs": 1120,
+      "acAsrConf": 252
+    }, {
+      "utf8": " shot",
+      "tOffsetMs": 1330,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 115300,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 115310,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Applause]"
+    } ]
+  }, {
+    "tStartMs": 124040,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 124050,
+    "dDurationMs": 3060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 128070,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 128080,
+    "dDurationMs": 4429,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Applause]"
+    } ]
+  }, {
+    "tStartMs": 142780,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 142790,
+    "dDurationMs": 44619,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 193440,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 193450,
+    "dDurationMs": 8969,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 207350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 207360,
+    "dDurationMs": 3159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 219640,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 219650,
+    "dDurationMs": 3049,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 228699,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 228709,
+    "dDurationMs": 4351,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's",
+      "acAsrConf": 201
+    }, {
+      "utf8": " car",
+      "tOffsetMs": 1000,
+      "acAsrConf": 211
+    }, {
+      "utf8": " still",
+      "tOffsetMs": 1331,
+      "acAsrConf": 234
+    }, {
+      "utf8": " spun",
+      "tOffsetMs": 1750,
+      "acAsrConf": 128
+    }, {
+      "utf8": " out",
+      "tOffsetMs": 2110,
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 233200,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 233210,
+    "dDurationMs": 19130,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 254590,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 254600,
+    "dDurationMs": 23510,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 280260,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 280270,
+    "dDurationMs": 27379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 311580,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 311590,
+    "dDurationMs": 5339,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 319010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 319020,
+    "dDurationMs": 11290,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 336160,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 336170,
+    "dDurationMs": 108520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 440460,
+    "dDurationMs": 4230,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 440470,
+    "dDurationMs": 38529,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "holy",
+      "acAsrConf": 252
+    }, {
+      "utf8": " [ __ ]",
+      "tOffsetMs": 1000,
+      "acAsrConf": 252
+    }, {
+      "utf8": " there's",
+      "tOffsetMs": 1410,
+      "acAsrConf": 135
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2410,
+      "acAsrConf": 164
+    }, {
+      "utf8": " mess",
+      "tOffsetMs": 2500,
+      "acAsrConf": 162
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 2890,
+      "acAsrConf": 164
+    }, {
+      "utf8": " them",
+      "tOffsetMs": 3129,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 444680,
+    "dDurationMs": 34319,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 444690,
+    "dDurationMs": 34309,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 482060,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 482070,
+    "dDurationMs": 56150,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 536100,
+    "dDurationMs": 2120,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 536110,
+    "dDurationMs": 8370,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " epaulets",
+      "tOffsetMs": 1000,
+      "acAsrConf": 90
+    }, {
+      "utf8": " arrived",
+      "tOffsetMs": 1539,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 538210,
+    "dDurationMs": 6270,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 538220,
+    "dDurationMs": 9530,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I",
+      "acAsrConf": 252
+    }, {
+      "utf8": " think",
+      "tOffsetMs": 2119,
+      "acAsrConf": 252
+    }, {
+      "utf8": " it's",
+      "tOffsetMs": 3119,
+      "acAsrConf": 252
+    }, {
+      "utf8": " picking",
+      "tOffsetMs": 3239,
+      "acAsrConf": 252
+    }, {
+      "utf8": " him",
+      "tOffsetMs": 3570,
+      "acAsrConf": 131
+    }, {
+      "utf8": " up",
+      "tOffsetMs": 3660,
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "tOffsetMs": 3780,
+      "acAsrConf": 227
+    }, {
+      "utf8": " think",
+      "tOffsetMs": 3989,
+      "acAsrConf": 252
+    }, {
+      "utf8": " yeah",
+      "tOffsetMs": 4050,
+      "acAsrConf": 185
+    } ]
+  }, {
+    "tStartMs": 544470,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 544480,
+    "dDurationMs": 3270,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're",
+      "acAsrConf": 233
+    }, {
+      "utf8": " good",
+      "tOffsetMs": 1000,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 548699,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 548709,
+    "dDurationMs": 44970,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's",
+      "acAsrConf": 208
+    }, {
+      "utf8": " crazy",
+      "tOffsetMs": 1000,
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 551340,
+    "dDurationMs": 42339,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 551350,
+    "dDurationMs": 42329,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 596970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 596980,
+    "dDurationMs": 3710,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  }, {
+    "tStartMs": 609600,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 609610,
+    "dDurationMs": 119879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  } ]
+}
