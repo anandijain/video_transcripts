@@ -29,3 +29,6 @@ so far i have streamed 872.880948176968 hours
     * would give me a way to easily find what words i said on a given day 
 * do the tally on just the utf8s in the segs without join + tokenize 
 * compare with word freqs to charactize how i talk 
+* add another render where you have timestamps only on events not individual segments 
+* start getting this updated daily 
+* summarize with screenshots using gpt api
